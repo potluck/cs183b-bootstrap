@@ -1,0 +1,4 @@
+tablib
+requests
+clint
+python-slugify
