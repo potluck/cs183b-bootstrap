@@ -6,8 +6,8 @@ layout: default
 <div class="jumbotron">
   <h3>
     By Sam Altman <a href="https://twitter.com/sama" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @sama</a>
-    <div class="fb-follow" data-href="https://www.facebook.com/sama" data-width="150" data-height="30" data-colorscheme="light" data-layout="standard" data-show-faces="true"></div>
   </h3>
+  <div class="fb-follow" data-href="https://www.facebook.com/sama" data-colorscheme="light" data-layout="button" data-show-faces="true"></div>
   <h4>Featuring: Mark Zuckerberg, Peter Thiel, Marc Andreessen, Reid Hoffman, Marissa Mayer, and more</h4>
   <button class="btn btn-warning btn-lg"><span class="glyphicon glyphicon-envelope"></span>  Sign Up</button> and <button class="btn btn-primary btn-lg"> Join the community </button>
 </div>
