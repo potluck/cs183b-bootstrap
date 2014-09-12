@@ -1,6 +1,6 @@
 ---
 Title: Founders, Stripe
-date: '41940.0'
+date: '"10/28/14"'
 layout: coursepage
 lecno: 11
 name: lec11

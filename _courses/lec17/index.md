@@ -1,6 +1,6 @@
 ---
 Title: null
-date: '41961.0'
+date: '"11/18/14"'
 layout: coursepage
 lecno: 17
 name: lec17

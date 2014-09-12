@@ -56,16 +56,14 @@ layout: default
       </tr>
       {% for course in site.courses %}
       <tr>
-        <td>{{ course.date }}</td>
+        <td>{{ course.date|remove:'"' }}</td>
         <td>
           <a href="{{ course.url|remove:'index.html' }}">{{ course.topic}}</a>
         </td>
         <td>
-          {% for speaker in course.speakers %}
-            <strong>{{ speaker.name }}</strong>,
-            <em>{{ speaker.title }}</em>
+            <strong>{{ course.speaker }}</strong>,
+            <em>{{ course.Title }}</em>
             <br>
-          {% endfor %}
         </td>
       </tr>
       {% endfor %}
@@ -74,101 +72,6 @@ layout: default
         <td>9/23/14</td>
         <td>Introduction</td>
         <td><strong>Sam Altman</strong>, <em>President, Y Combinator</em></td>
-      </tr>
-      <tr>
-        <td>9/25/14</td>
-        <td>How to Have Ideas</td>
-        <td><strong>Paul Graham</strong>, <em>Title here</em></td>
-      </tr>
-      <tr>
-        <td>9/30/14</td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>10/2/14</td>
-        <td>Building product, talking to users, and growing</td>
-        <td>Drew Houston</td>
-      </tr>
-      <tr>
-        <td>10/7/14</td>
-        <td>How to evaluate ideas, monopoly theory</td>
-        <td>Peter Thiel</td>
-      </tr>
-      <tr>
-        <td>10/9/14</td>
-        <td>Early days of big companies</td>
-        <td>Mark Zuckerberg</td>
-      </tr>
-      <tr>
-        <td>10/14/14</td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>10/16/14</td>
-        <td>How to "do business"</td>
-        <td>Marissa Mayer</td>
-      </tr>
-      <tr>
-        <td>10/21/14</td>
-        <td>How to raise money</td>
-        <td>Marc Andreessen, Ron Conway, Ben Silbermann</td>
-      </tr>
-      <tr>
-        <td>10/23/14</td>
-        <td>How to hire and company culture, part I</td>
-        <td>Brian Chesky</td>
-      </tr>
-      <tr>
-        <td>10/28/14</td>
-        <td>How to hire and company culture, part II</td>
-        <td>Patrick and John Collison</td>
-      </tr>
-      <tr>
-        <td>10/30/14</td>
-        <td>Sales and marketing</td>
-        <td>Aaron Levie</td>
-      </tr>
-      <tr>
-        <td>11/4/14</td>
-        <td></td>
-        <td>Reid hoffman</td>
-      </tr>
-      <tr>
-        <td>11/6/14</td>
-        <td>How to operate</td>
-        <td>Keith Rabois</td>
-      </tr>
-      <tr>
-        <td>11/11/14</td>
-        <td>How to manage</td>
-        <td>Ben Horowitz</td>
-      </tr>
-      <tr>
-        <td>11/13/14</td>
-        <td>Engineering organziations</td>
-        <td>Bob Lee</td>
-      </tr>
-      <tr>
-        <td>11/18/14</td>
-        <td>Hard technology companies</td>
-        <td>Elon Musk</td>
-      </tr>
-      <tr>
-        <td>11/20/14</td>
-        <td>Mechanics of startups--legal, finance, HR</td>
-        <td>Kirsty Nathoo and Carolynn Levy</td>
-      </tr>
-      <tr>
-        <td>12/2/14</td>
-        <td>Founder Advice</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>12/4/14</td>
-        <td>Closing thoughts, and pitfalls to avoid</td>
-        <td>Sam Altman</td>
       </tr>
     </table>
   </div>

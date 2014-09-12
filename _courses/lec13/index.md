@@ -1,6 +1,6 @@
 ---
 Title: Founder, Greylock Ventures
-date: '41947.0'
+date: '"11/4/14"'
 layout: coursepage
 lecno: 13
 name: lec13

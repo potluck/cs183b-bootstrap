@@ -1,6 +1,6 @@
 ---
 Title: President, Y Combinator
-date: '41912.0'
+date: '"9/30/14"'
 layout: coursepage
 lecno: 3
 name: lec03

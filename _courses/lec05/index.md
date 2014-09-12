@@ -1,6 +1,6 @@
 ---
 Title: Founder, Paypal & Palantir
-date: '41919.0'
+date: '"10/7/14"'
 layout: coursepage
 lecno: 5
 name: lec05

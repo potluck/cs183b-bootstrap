@@ -1,6 +1,6 @@
 ---
 Title: VP, Growth, Facebook
-date: '41921.0'
+date: '"10/9/14"'
 layout: coursepage
 lecno: 6
 name: lec06
