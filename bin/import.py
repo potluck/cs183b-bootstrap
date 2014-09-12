@@ -8,7 +8,7 @@ import tablib
 import requests
 from clint.textui import puts, indent
 from clint.textui.colored import green, red
-from django.utils.text import slugify
+from slugify import slugify
 
 
 def read_jekyll_file(filepath):
