@@ -1,6 +1,6 @@
 ---
 Title: Founder, Wufoo
-date: '41926.0'
+date: '"10/14/14"'
 layout: coursepage
 lecno: 7
 name: lec07

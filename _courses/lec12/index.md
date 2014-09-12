@@ -1,6 +1,6 @@
 ---
 Title: CEO & Founder, Box
-date: '41942.0'
+date: '"10/30/14"'
 layout: coursepage
 lecno: 12
 name: lec12

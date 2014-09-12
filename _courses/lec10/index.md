@@ -1,6 +1,6 @@
 ---
 Title: Cofounder & CEO, Airbnb
-date: '41935.0'
+date: '"10/23/14"'
 layout: coursepage
 lecno: 10
 name: lec10

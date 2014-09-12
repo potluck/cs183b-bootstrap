@@ -1,6 +1,6 @@
 ---
 Title: Partner, Khosla Ventures
-date: '41949.0'
+date: '"11/6/14"'
 layout: coursepage
 lecno: 14
 name: lec14

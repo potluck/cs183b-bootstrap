@@ -1,6 +1,6 @@
 ---
 Title: CEO & Co-Founder, Homejoy
-date: '41914.0'
+date: '"10/2/14"'
 layout: coursepage
 lecno: 4
 name: lec04

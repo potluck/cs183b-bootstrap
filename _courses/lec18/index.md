@@ -1,6 +1,6 @@
 ---
 Title: Partners, Y Combinator
-date: '41963.0'
+date: '"11/20/14"'
 layout: coursepage
 lecno: 18
 name: lec18

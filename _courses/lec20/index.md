@@ -1,6 +1,6 @@
 ---
 Title: President, Y Combinator
-date: '41977.0'
+date: '"12/4/14"'
 layout: coursepage
 lecno: 20
 name: lec20
