@@ -3,14 +3,12 @@ layout: default
 ---
 
 <div class="jumbotron">
-  <h1>
-    Lecture {{page.lectureno}}: {{ page.topic }}
-  </h1>
-  <h3>
+  <h2>
+    Lecture {{page.lecno}}: {{ page.topic }}
+  </h2>
+  <h4>
     By Sam Altman
-  </h3>
-  <h4>Featuring: Mark Zuckerberg, Peter Thiel, Marc Andreessen, Reid Hoffman, Marissa Mayer, and more</h4>
-  <button class="btn btn-warning btn-lg"><span class="glyphicon glyphicon-envelope"></span>  Sign Up</button> and <button class="btn btn-primary btn-lg"> Join the community </button>
+  </h4>
 </div>
 
 {% for speaker in page.speakers %}

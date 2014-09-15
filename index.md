@@ -61,6 +61,9 @@ layout: default
           <a href="{{ course.url|remove:'index.html' }}">{{ course.topic}}</a>
         </td>
         <td>
+          {% for speaker in page.speakers %}
+            {{ speaker.title }}
+          {% endfor %}
             <strong>{{ course.speaker }}</strong>,
             <em>{{ course.Title }}</em>
             <br>

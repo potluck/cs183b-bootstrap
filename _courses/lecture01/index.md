@@ -1,6 +1,6 @@
 ---
 topic: "Introduction"
-lectureno: 1
+lecno: 1
 speakers:
   - name: Sam Altman
     title: President, Y Combinator
