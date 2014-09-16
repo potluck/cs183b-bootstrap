@@ -15,7 +15,7 @@ layout: default
     <h2 class="page-header">
       Fall 2014
     </h2>
-    <p></p>
+    <h3>Everything we know about how to start a startup, for free, from some of the world experts.</h3>
     <p>
     CS183B is a class we’re teaching at Stanford.  It’s designed to be a sort of one-class business course for people who want to start startups.
     </p>
