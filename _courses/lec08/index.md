@@ -1,5 +1,4 @@
 ---
-Title: null
 date: '"10/16/14"'
 layout: coursepage
 lecno: 8
