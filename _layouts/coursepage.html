@@ -3,7 +3,13 @@ layout: default
 ---
 
 <div class="jumbotron">
-  <h1>
+  <h3>
     Lecture {{page.lecno}}: {{ page.topic }}
-  </h1>
+  </h3>
+  By: <br>
+  {% for speaker in page.speakers %}
+    <strong>{{ speaker.speaker_name }}</strong>
+    <br>
+  {% endfor %}
 </div>
+  <h3>Lecture video coming soon - will be posted on {{ page.date|remove:'"'  }}</h3>

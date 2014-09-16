@@ -38,8 +38,16 @@ layout: default
       Following along
     </h2>
     <p>
-    Videos will be uploaded every Tuesday and Thursday. Hundreds of universities are organizing groups to watch the videos together, as well as peer evaluate the projects. See if your university
-    <a href="https://docs.google.com/spreadsheets/d/1NRpmEwyoKaGqRa--U2faAh6vA3SZTCdPXb4Ud7_BW9M/">already has a group</a>, and if not, <a href="https://docs.google.com/forms/d/1txn_v7M-MmrqbCH44lAD4JKcM1iCTHLL1vCrqv2qH9U/viewform">apply to be a leader</a>.
+    Videos will be uploaded to this site every Tuesday and Thursday. Hundreds of universities are organizing groups to watch the videos together, as well as peer evaluate the projects. See if your university
+    <a href="https://docs.google.com/spreadsheets/d/1NRpmEwyoKaGqRa--U2faAh6vA3SZTCdPXb4Ud7_BW9M/">already has a group</a>, and if not, <a href="https://docs.google.com/forms/d/1txn_v7M-MmrqbCH44lAD4JKcM1iCTHLL1vCrqv2qH9U/viewform">apply to be a leader</a>. If it does, you'll be able to sign up for that shortly!
+    </p>
+    <p>
+      In addition to the <a href="http://eepurl.com/3oe0H">mailing list</a> and
+      <a href="https://www.facebook.com/groups/556336557801913/">Facebook group</a>,
+       a discussion forum will be set up specifically for students following along
+       to discuss the contents of the lecture. Join either of the groups to get
+       updated when that is live, as well as when the first lecture video is
+       put online!
     </p>
   </div>
   <div class="col-sm-6">
