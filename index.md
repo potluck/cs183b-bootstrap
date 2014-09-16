@@ -8,7 +8,7 @@ layout: default
     By Sam Altman <a href="https://twitter.com/sama" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @sama</a>
   </h3>
   <div class="fb-follow" data-href="https://www.facebook.com/sama" data-colorscheme="light" data-layout="button" data-show-faces="true"></div>
-  <h4>Featuring: Mark Zuckerberg, Peter Thiel, Marc Andreessen, Reid Hoffman, Marissa Mayer, and more</h4>
+  <h4>Featuring: Peter Thiel, Ben Horowitz, Reid Hoffman, Marissa Mayer, and more</h4>
   <button class="btn btn-warning btn-lg"><span class="glyphicon glyphicon-envelope"></span>  Sign Up</button> and <button class="btn btn-primary btn-lg"> Join the community </button>
 </div>
 <div class="row">
@@ -51,31 +51,24 @@ layout: default
     <table class="table table-striped table-bordered">
       <tr>
         <td>Date</td>
-        <td>Topic</td>
         <td>Speaker</td>
+        <td>Topic</td>
       </tr>
       {% for course in site.courses %}
       <tr>
         <td>{{ course.date|remove:'"' }}</td>
         <td>
-          <a href="{{ course.url|remove:'index.html' }}">{{ course.topic}}</a>
+          {% for speaker in course.speakers %}
+            <strong>{{ speaker.speaker_name }}</strong>,
+            <em>{{ speaker.speaker_title }}</em>
+            <br>
+          {% endfor %}
         </td>
         <td>
-          {% for speaker in page.speakers %}
-            {{ speaker.title }}
-          {% endfor %}
-            <strong>{{ course.speaker }}</strong>,
-            <em>{{ course.Title }}</em>
-            <br>
+          <a href="{{ course.url|remove:'index.html' }}">{{ course.topic}}</a>
         </td>
       </tr>
       {% endfor %}
-
-      <tr>
-        <td>9/23/14</td>
-        <td>Introduction</td>
-        <td><strong>Sam Altman</strong>, <em>President, Y Combinator</em></td>
-      </tr>
     </table>
   </div>
 </div>

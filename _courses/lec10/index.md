@@ -1,11 +1,12 @@
 ---
-Title: Cofounder & CEO, Airbnb
 date: '"10/23/14"'
 layout: coursepage
 lecno: 10
 name: lec10
 slug: lec10
-speaker: Brian Chesky
+speakers:
+  - speaker_name: Alfred Lin
+    speaker_title: Former COO, Zappos and Partner, Sequoia Capital
 topic: How to hire and company culture, part I
 
 ---
