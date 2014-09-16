@@ -65,7 +65,7 @@ layout: default
           {% endfor %}
         </td>
         <td>
-          <a href="{{ course.url|remove:'index.html' }}">{{ course.topic}}</a>
+          {{ course.topic}}
         </td>
       </tr>
       {% endfor %}
