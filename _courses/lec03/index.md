@@ -7,6 +7,6 @@ slug: lec03
 speakers:
   - speaker_name: Paul Graham
     speaker_title: Founder, Y Combinator
-topic: How to have ideas and how to get started
+topic: How to Have Ideas and How to Get Started
 
 ---

@@ -7,6 +7,6 @@ slug: lec07
 speakers:
   - speaker_name: Kevin Hale
     speaker_title: Founder, Wufoo and Partner, Y Combinator
-topic: How to build products users love
+topic: How to Build Products Users Love, Part I
 
 ---

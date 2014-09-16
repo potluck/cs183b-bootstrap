@@ -7,6 +7,6 @@ slug: lec16
 speakers:
   - speaker_name: Marissa Mayer
     speaker_title: CEO, Yahoo
-topic: How to "do business"--negotiation, business development, board meetings, etc
+topic: TBA
 
 ---

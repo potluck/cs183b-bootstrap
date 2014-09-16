@@ -41,7 +41,7 @@ layout: default
     </h2>
     <p>
     Videos will be uploaded every Tuesday and Thursday. Hundreds of universities are organizing groups to watch the videos together, as well as peer evaluate the projects. See if your university
-    <a href="">already has a group</a>, and if not, apply to be a leader.
+    <a href="https://docs.google.com/spreadsheets/d/1NRpmEwyoKaGqRa--U2faAh6vA3SZTCdPXb4Ud7_BW9M/">already has a group</a>, and if not, <a href="https://docs.google.com/forms/d/1txn_v7M-MmrqbCH44lAD4JKcM1iCTHLL1vCrqv2qH9U/viewform">apply to be a leader</a>.
     </p>
   </div>
   <div class="col-sm-6">

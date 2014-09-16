@@ -7,6 +7,6 @@ slug: lec20
 speakers:
   - speaker_name: Sam Altman
     speaker_title: President, Y Combinator
-topic: Closing thoughts, and pitfalls to avoid, HR to set up, etc
+topic: Closing Thoughts and Later-Stage Advice
 
 ---

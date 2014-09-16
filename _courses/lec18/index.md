@@ -7,6 +7,6 @@ slug: lec18
 speakers:
   - speaker_name: Kirsty Nathoo and Carolynn Levy
     speaker_title: Partners, Y Combinator
-topic: Mechanics of startups--legal, finance, HR, etc
+topic: Mechanics--Legal, Finance, HR, etc.
 
 ---

@@ -7,6 +7,6 @@ slug: lec14
 speakers:
   - speaker_name: Keith Rabois
     speaker_title: Partner, Khosla Ventures
-topic: How to operate
+topic: How to Operate
 
 ---

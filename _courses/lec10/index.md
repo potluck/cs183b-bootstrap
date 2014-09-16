@@ -7,6 +7,6 @@ slug: lec10
 speakers:
   - speaker_name: Alfred Lin
     speaker_title: Former COO, Zappos and Partner, Sequoia Capital
-topic: How to hire and company culture, part I
+topic: Company Culture and Buliding a Team, Part I
 
 ---

@@ -7,6 +7,6 @@ slug: lec05
 speakers:
   - speaker_name: Peter Thiel
     speaker_title: Founder, Paypal & Palantir, and Partner, Founders Fund
-topic: How to evaluate ideas, monopoly theory
+topic: Business Strategy and Monopoly Theory
 
 ---

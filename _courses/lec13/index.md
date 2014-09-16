@@ -7,6 +7,6 @@ slug: lec13
 speakers:
   - speaker_name: Reid Hoffman
     speaker_title: Partner, Greylock Ventures and Founder, LinkedIn
-topic: null
+topic: TBA
 
 ---

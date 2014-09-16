@@ -7,6 +7,6 @@ slug: lec11
 speakers:
   - speaker_name: Patrick and John Collison
     speaker_title: Founders, Stripe
-topic: How to hire and company culture, part II
+topic: Company Culture and Building a Team, Part II
 
 ---

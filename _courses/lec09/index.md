@@ -11,6 +11,6 @@ speakers:
     speaker_title: Founder, SV Angel
   - speaker_name: Ben Silbermann
     speaker_title: Founder & CEO, Pinterest
-topic: How to raise money
+topic: How to Raise Money
 
 ---

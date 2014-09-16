@@ -7,6 +7,6 @@ slug: lec06
 speakers:
   - speaker_name: Alex Schultz
     speaker_title: VP Growth, Facebook
-topic: Early days of big companies
+topic: Growth
 
 ---

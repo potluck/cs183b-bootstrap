@@ -7,6 +7,6 @@ slug: lec04
 speakers:
   - speaker_name: Adora Cheung
     speaker_title: Founder, Homejoy
-topic: Building product, talking to users, and growing
+topic: Building Product, Talking to Users, and Growing
 
 ---

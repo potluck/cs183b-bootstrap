@@ -7,6 +7,6 @@ slug: lec12
 speakers:
   - speaker_name: Aaron Levie
     speaker_title: Founder, Box
-topic: Sales and marketing [early-stage]
+topic: Sales and Marketing
 
 ---
