@@ -65,13 +65,17 @@ layout: default
         <td>{{ course.date|remove:'"' }}</td>
         <td>
           {% for speaker in course.speakers %}
-            <strong>{{ speaker.speaker_name }}</strong>,
+            <strong>{{ speaker.speaker_name }}</strong>{% if speaker.speaker_name != "TBA" %}, {% endif %}
             <em>{{ speaker.speaker_title }}</em>
             <br>
           {% endfor %}
         </td>
         <td>
+          {% if course.lecno != 1 %}
           {{ course.topic}}
+          {% else %}
+          <a href="/courses/lec01/">{{ course.topic }}</a>
+          {% endif %}
         </td>
       </tr>
       {% endfor %}
