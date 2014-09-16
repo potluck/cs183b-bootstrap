@@ -6,7 +6,7 @@ name: lec08
 slug: lec08
 speakers:
   - speaker_name: TBA
-    speaker_title: TBA
+    speaker_title: null
 topic: null
 
 ---

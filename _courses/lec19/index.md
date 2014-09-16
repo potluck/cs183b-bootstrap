@@ -6,7 +6,7 @@ name: lec19
 slug: lec19
 speakers:
   - speaker_name: TBA
-    speaker_title: TBA
+    speaker_title: null
 topic: null
 
 ---

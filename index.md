@@ -1,5 +1,5 @@
 ---
-title: "CS183B: How to Start a Startup"
+title: "How to Start a Startup"
 layout: default
 ---
 
@@ -22,7 +22,7 @@ layout: default
     CS183B is a class we’re teaching at Stanford.  It’s designed to be a sort of one-class business course for people who want to start startups.
     </p>
     <p>
-    Videos of the classes, associated reading materials, and assignments will all be available here.  There will be 20 videos, some with a speaker or two and some with a small panel.   It’ll be 1,000 minutes of content if you watch it all.
+    Videos of the lectures, associated reading materials, and assignments will all be available here.  There will be 20 videos, some with a speaker or two and some with a small panel.   It’ll be 1,000 minutes of content if you watch it all.
     </p>
     <p>We’ll cover how to come up with ideas and evaluate them, how to get users and grow, how to do sales and marketing, how to hire, how to raise money, company culture, operations and management, business strategy, and more.</p>
     <p>
