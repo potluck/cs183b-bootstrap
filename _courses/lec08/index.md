@@ -5,7 +5,9 @@ layout: coursepage
 lecno: 8
 name: lec08
 slug: lec08
-speaker: null
+speakers:
+  - speaker_name: TBA
+    speaker_title: null
 topic: null
 
 ---
