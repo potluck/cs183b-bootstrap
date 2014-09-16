@@ -7,7 +7,6 @@ layout: default
   <h3>
     By Sam Altman <a href="https://twitter.com/sama" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @sama</a>
   </h3>
-  <div class="fb-follow" data-href="https://www.facebook.com/sama" data-colorscheme="light" data-layout="button" data-show-faces="true"></div>
   <h4>Featuring: Peter Thiel, Ben Horowitz, Reid Hoffman, Marissa Mayer, and more</h4>
   <button class="btn btn-warning btn-lg"><span class="glyphicon glyphicon-envelope"></span>  Sign Up</button> and <button class="btn btn-primary btn-lg"> Join the community </button>
 </div>
