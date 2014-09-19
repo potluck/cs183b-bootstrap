@@ -65,6 +65,7 @@ layout: default
         <td>{{ course.date|remove:'"' }}</td>
         <td>
           {% for speaker in course.speakers %}
+            {% if speaker.speaker_name == "Dustin Moskovitz"%} <br> {% endif %}
             <strong>{{ speaker.speaker_name }}</strong>{% if speaker.speaker_name != "TBA" %}, {% endif %}
             <em>{{ speaker.speaker_title }}</em>
             <br>
@@ -74,7 +75,7 @@ layout: default
           {% if course.lecno != 1 %}
           {{ course.topic}}
           {% else %}
-          <a href="/courses/lec01/">{{ course.topic }}</a>
+          <a href="/courses/lec01/">{{ course.topic }} <br> <br> Why to Start a Startup</a>
           {% endif %}
         </td>
       </tr>
