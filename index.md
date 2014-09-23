@@ -2,10 +2,14 @@
 title: "How to Start a Startup"
 layout: default
 ---
+<div class="container">
+  <h1>How to Start a Startup</h1>
+  <hr />
+</div>
 
 <div class="jumbotron">
   <h3>
-    By Sam Altman <a href="https://twitter.com/sama" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @sama</a>
+    By Sam Altman <a href="https://twitter.com/sama" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @sama</a>
   </h3>
   <h4><strong>Everything we know about how to start a startup, for free, from some of the world experts.</strong></h4>
   <a href="http://eepurl.com/3oe0H" class="btn btn-warning btn-lg"><span class="glyphicon glyphicon-envelope"></span>  Sign Up</a> and <a href="https://www.facebook.com/groups/556336557801913/" class="btn btn-primary btn-lg"> Join the community </a>
@@ -56,29 +60,28 @@ layout: default
     <h2 class="page-header">
     Course Schedule
     </h2>
-    <table class="table table-striped table-bordered">
+    Readings posted through 9/23, No videos posted
+    <table class="table table-striped table-bordered top-margin">
       <tr>
         <td>Date</td>
         <td>Speaker</td>
         <td>Topic</td>
       </tr>
       {% for course in site.courses %}
+
       <tr>
-        <td>{{ course.date|remove:'"' }}</td>
+        <td>{% if course.lecno <= 1 %}<a href="/courses/{{ course.slug }}">{% endif %}
+          {{ course.date|remove:'"' }}{% if course.lecno <= 1 %}</a>{% endif %}
+        </td>
         <td>
           {% for speaker in course.speakers %}
-            {% if speaker.speaker_name == "Dustin Moskovitz"%} <br> {% endif %}
             <strong>{{ speaker.speaker_name }}</strong>{% if speaker.speaker_name != "TBA" %}, {% endif %}
             <em>{{ speaker.speaker_title }}</em>
             <br>
           {% endfor %}
         </td>
         <td>
-          {% if course.lecno != 1 %}
           {{ course.topic}}
-          {% else %}
-          <a href="/courses/lec01/">{{ course.topic }} <br> <br> Why to Start a Startup</a>
-          {% endif %}
         </td>
       </tr>
       {% endfor %}

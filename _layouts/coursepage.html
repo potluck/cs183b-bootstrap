@@ -1,15 +1,32 @@
 ---
 layout: default
 ---
+  <h1>How to Start a Startup <a href="http://eepurl.com/3oe0H" class="btn btn-warning btn-sm"><span class="glyphicon glyphicon-envelope"></span> Sign Up</a></h1>
+  <h3> Sam Altman {% if page.lecno != 1 && page.lecno != 2 %}<a href="https://twitter.com/sama" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @sama</a> {% endif %}</h3>
+  <hr />
 
 <div class="jumbotron">
   <h3>
     Lecture {{page.lecno}}: {{ page.topic }}
   </h3>
-  By: <br>
+  <br>
   {% for speaker in page.speakers %}
-    <strong>{{ speaker.speaker_name }}</strong>
+    <strong>{{ speaker.speaker_name }} {{ speaker.follow_link }}</strong>
     <br>
   {% endfor %}
 </div>
-  <h3>Lecture video coming soon - will be posted on {{ page.date|remove:'"'  }}</h3>
+
+  <h3>Readings:
+  {% if page.readings %}
+  <h4>
+  <ul>
+  {% for reading in page.readings %}
+  <li>
+    {{ reading.link }}
+    <br>
+  </li>
+  {% endfor %}
+  </ul>
+  {% endif %}</h4></h3>
+
+  <h3>Lecture video coming soon - will be posted by 4 PM Pacific on {{ page.date|remove:'"'  }}</h3>
