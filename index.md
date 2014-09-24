@@ -60,7 +60,7 @@ layout: default
     <h2 class="page-header">
     Course Schedule
     </h2>
-    Readings posted through 9/23, No videos posted
+    Readings posted through 9/23, Videos posted through 9/23
     <table class="table table-striped table-bordered top-margin">
       <tr>
         <td>Date</td>
