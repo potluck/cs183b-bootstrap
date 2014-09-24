@@ -6,13 +6,16 @@ layout: default
   <hr />
 
 <div class="jumbotron">
-<iframe width="560" height="315" src="//www.youtube.com/embed/CBYhVcO4WgI" frameborder="0" allowfullscreen></iframe>
+{% if page.video_link %}
+<iframe width="560" height="315" src="{{ page.video_link }}" frameborder="0" allowfullscreen></iframe>
+{% endif %}
   <h3>
     Lecture {{page.lecno}}: {{ page.topic }}
   </h3>
   <br>
   {% for speaker in page.speakers %}
-    <strong>{{ speaker.speaker_name }} {{ speaker.follow_link }}</strong>
+    <strong>{{ speaker.speaker_name }} {{ speaker.follow_link }}</strong>,
+    {% if speaker.slides_link %} View {{ speaker.first_name }}'s <a href="{{ speaker.slides_link }}">Slide Deck</a>. {% endif %}
     <br>
   {% endfor %}
 </div>
@@ -29,6 +32,3 @@ layout: default
   {% endfor %}
   </ul>
   {% endif %}</h4></h3>
-
-
-  <h3>Lecture video is up <a href="https://www.youtube.com/watch?v=CBYhVcO4WgI">here</a></h3>
