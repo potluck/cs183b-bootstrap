@@ -21,10 +21,15 @@ layout: default
     <br>
   {% endfor %}
 
+  {% if page.genius_link %}
+  <br> <a href="{{ page.genius_link }}">View the annotated transcript</a>, and add annotations of your own, on Genius
+  {% endif %}
+
   {% if page.discussion_forum %}
   <br>
   <p> <b><a href="{{ page.discussion_forum}}">Discuss this lecture!</a><b> </p>
   {% endif %}
+
 
 </div>
 

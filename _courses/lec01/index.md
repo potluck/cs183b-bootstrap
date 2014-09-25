@@ -22,4 +22,5 @@ readings:
   - link: <a href="https://medium.com/i-m-h-o/good-and-bad-reasons-to-become-an-entrepreneur-decf0766de8d">Good and Bad Reasons to Become an Entrepreneur</a> by Dustin Moskovitz
 video_link: //www.youtube.com/embed/CBYhVcO4WgI
 discussion_forum: http://startupclass.co/lecture/83454/-welcome-and-ideas-products-teams-and-execution-part-ibr
+genius_link: http://tech.genius.com/Sam-altman-how-to-start-a-startup-lecture-1-annotated
 ---
