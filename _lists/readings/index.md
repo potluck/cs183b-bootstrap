@@ -7,7 +7,7 @@ layout: default
 <h3> Sam Altman {% if page.lecno > 2 %}<a href="https://twitter.com/sama" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @sama</a> {% endif %}</h3>
 <hr />
 
-<h3> Recommended Readings: </h3> (Future readings are subject to change)
+<h3> Recommended Readings, to be read before watching the lecture: </h3> (Future readings are subject to change)
 <ul>
   <li>9/23/14, Lecture 1
   <ul>
