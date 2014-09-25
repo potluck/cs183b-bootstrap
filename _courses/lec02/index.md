@@ -15,7 +15,7 @@ topic: Ideas, Products, Teams and Execution Part II
 readings:
   - link: <a href="http://blog.samaltman.com/stupid-apps-and-changing-the-world">Stupid Apps and Changing the World</a> by Sam Altman
   - link: <a href="http://paulgraham.com/ds.html">Do things that Don’t Scale</a> by Paul Graham
-video_link: //www.youtube.com/embed/CBYhVcO4WgI
+video_link: //www.youtube.com/watch?v=CVfnkM44Urs
 discussion_forum: http://startupclass.co/lecture/83455/-welcome-and-ideas-products-teams-and-execution-part-iibr
 
 ---

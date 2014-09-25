@@ -60,7 +60,7 @@ layout: default
     <h2 class="page-header">
     Course Schedule
     </h2>
-    Readings posted through 9/23, Videos posted through 9/23
+    Readings posted through 9/30, Videos posted through 9/25
     <table class="table table-striped table-bordered top-margin">
       <tr>
         <td>Date</td>
@@ -70,8 +70,8 @@ layout: default
       {% for course in site.courses %}
 
       <tr>
-        <td>{% if course.lecno <= 2 %}<a href="/courses/{{ course.slug }}">{% endif %}
-          {{ course.date|remove:'"' }}{% if course.lecno <= 2 %}</a>{% endif %}
+        <td>{% if course.lecno <= 3 %}<a href="/courses/{{ course.slug }}">{% endif %}
+          {{ course.date|remove:'"' }}{% if course.lecno <= 3 %}</a>{% endif %}
         </td>
         <td>
           {% for speaker in course.speakers %}
@@ -81,8 +81,8 @@ layout: default
           {% endfor %}
         </td>
         <td>
-        {% if course.lecno <= 2 %}<a href="/courses/{{ course.slug }}">{% endif %}
-            {{ course.topic}}{% if course.lecno <= 2 %}</a>{% endif %}
+        {% if course.lecno <= 3 %}<a href="/courses/{{ course.slug }}">{% endif %}
+            {{ course.topic}}{% if course.lecno <= 3 %}</a>{% endif %}
 
         </td>
       </tr>

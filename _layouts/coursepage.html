@@ -8,14 +8,16 @@ layout: default
 <div class="jumbotron">
 {% if page.video_link %}
 <iframe width="560" height="315" src="{{ page.video_link }}" frameborder="0" allowfullscreen></iframe>
+{% else %}
+<p> Lecture video will be available by 4 PM Pacific Time on {{ page.date }}</p>
 {% endif %}
   <h3>
     Lecture {{page.lecno}}: {{ page.topic }}
   </h3>
   <br>
   {% for speaker in page.speakers %}
-    <strong>{{ speaker.speaker_name }} {{ speaker.follow_link }}</strong>,
-    {% if speaker.slides_link %} View {{ speaker.first_name }}'s <a href="{{ speaker.slides_link }}">Slide Deck</a>. {% endif %}
+    <strong>{{ speaker.speaker_name }} {{ speaker.follow_link }}</strong>
+    {% if speaker.slides_link %}, View {{ speaker.first_name }}'s <a href="{{ speaker.slides_link }}">Slide Deck</a>. {% endif %}
     <br>
   {% endfor %}
 
