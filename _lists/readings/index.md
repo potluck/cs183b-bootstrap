@@ -4,7 +4,7 @@ layout: default
 ---
 
 <h1><a href="/">How to Start a Startup</a> <a href="http://eepurl.com/3oe0H" class="btn btn-warning btn-sm"><span class="glyphicon glyphicon-envelope"></span> Sign Up</a></h1>
-<h3> Sam Altman {% if page.lecno > 2 %}<a href="https://twitter.com/sama" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @sama</a> {% endif %}</h3>
+<h3> Sam Altman <a href="https://twitter.com/sama" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @sama</a></h3>
 <hr />
 
 <h3> Recommended Readings, to be read before watching the lecture: </h3> (Future readings are subject to change)
