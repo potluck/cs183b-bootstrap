@@ -51,7 +51,7 @@ layout: default
       In addition to the <a href="http://eepurl.com/3oe0H">mailing list</a> and
       <a href="https://www.facebook.com/groups/556336557801913/">Facebook group</a>,
        a discussion forum to discuss the contents of each lecture and reading is.
-      <a href="startupclass.co">here</a>.
+      <a href="http://startupclass.co">here</a>.
     </p>
   </div>
   <div class="col-sm-6">
