@@ -9,8 +9,8 @@ speakers:
     speaker_title: Founder, Andreessen Horowitz and Founder, Netscape
   - speaker_name: Ron Conway
     speaker_title: Founder, SV Angel
-  - speaker_name: Ben Silbermann
-    speaker_title: Founder & CEO, Pinterest
+  - speaker_name: Parker Conrad
+    speaker_title: Founder, Zenefits
 topic: How to Raise Money
 
 ---

@@ -6,7 +6,7 @@ name: lec05
 slug: lec05
 speakers:
   - speaker_name: Peter Thiel
-    speaker_title: Founder, Paypal & Palantir, and Partner, Founders Fund
+    speaker_title: Founder, Paypal, Founder, Palantir, and Founder, Founders Fund
 topic: Business Strategy and Monopoly Theory
 
 ---

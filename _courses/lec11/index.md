@@ -7,6 +7,8 @@ slug: lec11
 speakers:
   - speaker_name: Patrick and John Collison
     speaker_title: Founders, Stripe
+  - speaker_name: Ben Silbermann
+    speaker_title: Founder & CEO, Pinterest
 topic: Company Culture and Building a Team, Part II
 
 ---
