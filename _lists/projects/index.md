@@ -27,4 +27,4 @@ By the end of the 2 weeks, there should be plenty of items in your log.
 <h4><strong><u>Project 1</u></strong>, released 9/30/14</h4>
 Come up with 5 business ideas. For each, briefly answer the following questions: what are you going to build? Who needs it? How do you know? Why is this a good idea?
 
-<u>Note</u>: The ideas don’t need to be related to any of the things in your log, but it would be surprising if none of those problems had a related business idea.
+<u>Note:</u> The ideas don’t need to be related to any of the things in your log, but it would be surprising if none of those problems had a related business idea.
