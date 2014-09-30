@@ -59,7 +59,7 @@ layout: default
     <h2 class="page-header">
     Course Schedule
     </h2>
-    <a href="/lists/readings/">Readings posted through 10/14</a>, Videos posted through 9/25
+    <a href="/lists/readings/">Readings posted through 10/14</a>, <a href="https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg/">Videos posted through 9/30</a>
     <br>
     <a href="/lists/projects">Project 1</a> has been posted! Submission will be on <a href="http://www.reddit.com/r/HTSASprojects/">reddit</a>
     <br>
