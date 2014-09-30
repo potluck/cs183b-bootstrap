@@ -46,7 +46,18 @@ layout: default
   </li>
   <li>10/14/14, Lecture 7
   <ul>
-    <li>#12: <a href="http://www.ted.com/talks/david_kelley_how_to_build_your_creative_confidence?language=en">[video] How to build your creative confidence</a>, David Kelly</li>
+  <li>#12: <a href="http://seriouspony.com/blog/2013/7/24/your-app-makes-me-fat">Your App Makes Me Fat</a> by Kathy Sierra</li>
+  <li>#13: <a href="http://www.uie.com/articles/design_intuitive/">What Makes a Design Intuitive</a> by Jared Spool</li>
+  <li>#14: <a href="http://vimeo.com/34081566">Creative mornings with Ben Chestnut [video]</a></li>
+  <li>#15: <a href="http://www.psychologytoday.com/articles/200910/what-makes-marriage-work">What Makes Marriages Work</a> by John Gottman, Nan Silver</li>
+  <li><strong>Bonus Material</strong>
+    <ul>
+    <li>BJ Fogg’s <a href="http://www.behaviormodel.org/">Behavior Model</a></li>
+    <li><a href="http://hbr.org/1993/01/customer-intimacy-and-other-value-disciplines/ar/1">Customer Intimacy and Other Value Disciplines</a>, Harvard Business Review</li>
+    <li><a href="http://www.thisamericanlife.org/radio-archives/episode/261/transcript">The Sanctity of Marriage</a>, This American Life</li>
+    <li><a href="http://headrush.typepad.com/">Creating Passionate Users</a></li>
+    </ul>
+  </li>
   </ul>
   </li>
 </ul>
