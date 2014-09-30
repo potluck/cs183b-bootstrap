@@ -61,7 +61,7 @@ layout: default
     </h2>
     <a href="/lists/readings/">Readings posted through 10/14</a>, Videos posted through 9/25
     <br>
-    <a href="/lists/projects">Project 0</a> has been posted!
+    <a href="/lists/projects">Project 1</a> has been posted! Submission will be on <a href="http://www.reddit.com/r/HTSASprojects/">reddit</a>
     <br>
     You can <a href="https://docs.google.com/forms/d/1lorGlu_-OpRJfg9ArpwsIxv27__aZVSwJLZrC8wQpKU/viewform">submit questions</a> to ask guest speakers during Q&A.
     <br>
@@ -75,7 +75,7 @@ layout: default
       {% for course in site.courses %}
 
       <tr>
-        <td>{% if course.lecno <= 3 %}<a href="/courses/{{ course.slug }}">{% endif %}
+        <td>{% if course.lecno <= 5 %}<a href="/courses/{{ course.slug }}">{% endif %}
           {{ course.date|remove:'"' }}{% if course.lecno <= 3 %}</a>{% endif %}
         </td>
         <td>
@@ -86,7 +86,7 @@ layout: default
           {% endfor %}
         </td>
         <td>
-        {% if course.lecno <= 3 %}<a href="/courses/{{ course.slug }}">{% endif %}
+        {% if course.lecno <= 5 %}<a href="/courses/{{ course.slug }}">{% endif %}
             {{ course.topic}}{% if course.lecno <= 3 %}</a>{% endif %}
 
         </td>
