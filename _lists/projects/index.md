@@ -8,7 +8,7 @@ layout: default
 <hr />
 
 <h3> Projects</h3>
-Projects will be peer evaluated, on the <a href="reddit.com/r/HTSASprojects/">HTSAS Projects subreddit</a>.
+Projects will be peer evaluated, on the <a href="http://reddit.com/r/HTSASprojects/">HTSAS Projects subreddit</a>.
 Please see the rules on the subreddit regarding how to correctly format your submission.
 <br>
 There is no set due date - you are free to submit your projects to the subreddit at any time.
