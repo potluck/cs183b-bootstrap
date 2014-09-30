@@ -22,7 +22,7 @@ layout: default
   {% endfor %}
 
   {% if page.genius_link %}
-  <br> <a href="{{ page.genius_link }}">View the annotated transcript</a>, and add annotations of your own, on Genius
+  <br> <a href="{{ page.genius_link }}">View the annotated transcript</a>, and add annotations of your own, on Genius, or directly at the bottom of this page!
   {% endif %}
 
   {% if page.discussion_forum %}
@@ -45,3 +45,8 @@ layout: default
   {% endfor %}
   </ul>
   {% endif %}</h4></h3>
+
+{% if page.genius_link %}
+<div id='{{ page.genius_divid }}' class='rg_embed_link'>Read <a href="{{ page.genius_link }}"> {{ page.title }}</a> on News Genius</div>
+<script src='{{ page.genius_script }}'></script>
+{% endif %}

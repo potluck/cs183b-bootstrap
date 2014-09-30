@@ -23,4 +23,6 @@ readings:
 video_link: //www.youtube.com/embed/CBYhVcO4WgI
 discussion_forum: http://startupclass.co/lecture/83454/-welcome-and-ideas-products-teams-and-execution-part-ibr
 genius_link: http://tech.genius.com/Sam-altman-how-to-start-a-startup-lecture-1-annotated
+genius_divid: rg_embed_link_524368
+genius_script: //tech.genius.com/songs/524368/embed.js
 ---

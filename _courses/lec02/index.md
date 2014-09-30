@@ -18,5 +18,6 @@ readings:
 video_link: //www.youtube.com/embed/CVfnkM44Urs
 discussion_forum: http://startupclass.co/lecture/83455/-welcome-and-ideas-products-teams-and-execution-part-iibr
 genius_link: http://tech.genius.com/Sam-altman-lecture-2-ideas-products-teams-and-execution-part-ii-annotated
-
+genius_divid: rg_embed_link_525716
+genius_script: //tech.genius.com/songs/525716/embed.js
 ---
