@@ -9,6 +9,8 @@ speakers:
   - speaker_name: Adora Cheung
     speaker_title: Founder, Homejoy
     follow_link: <a href="https://twitter.com/nolimits" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @nolimits</a>
+    slides_link: https://www.dropbox.com/s/aenn0iajei8vzar/CS183BLecture4.pdf?dl=0
+    first_name: Adora
 topic: Building Product, Talking to Users, and Growing
 readings:
   - link: <a href="http://wpcurve.com/homejoy-adora-cheung/">From Failure to $37M in Funding with Adora Chueng</a>
