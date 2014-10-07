@@ -59,9 +59,9 @@ layout: default
     <h2 class="page-header">
     Course Schedule
     </h2>
-    <a href="/lists/readings/">Readings posted through 10/14</a>, <a href="https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg/">Videos posted through 10/2</a>
+    <a href="/lists/readings/">Readings posted through 10/14</a>, <a href="https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg/">Videos posted through 10/7</a>
     <br>
-    <a href="/lists/projects">Project 1</a> has been posted! Submission will be on <a href="http://www.reddit.com/r/HTSASprojects/">reddit</a>
+    <a href="/lists/projects">Project 2</a> has been posted! Submission will be on <a href="http://www.reddit.com/r/HTSASprojects/">reddit</a>
     <br>
     You can <a href="https://docs.google.com/forms/d/1lorGlu_-OpRJfg9ArpwsIxv27__aZVSwJLZrC8wQpKU/viewform">submit questions</a> to ask guest speakers during Q&A.
     <br>
