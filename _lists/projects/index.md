@@ -28,3 +28,21 @@ By the end of the 2 weeks, there should be plenty of items in your log.
 Come up with 5 business ideas. For each, briefly answer the following questions: what are you going to build? Who needs it? How do you know? Why is this a good idea?
 
 <u>Note:</u> The ideas don’t need to be related to any of the things in your log, but it would be surprising if none of those problems had a related business idea.
+<br><br>
+<h4><strong><u>Project 2</u></strong>, released 10/7/14</h4>
+Choose one of your ideas from Project 1, and refine it. Write a 2 page overview fleshing out answers to the questions:
+<ul>
+<li>What are you going to build?
+<ul>
+<li>What are the primary features? What will it generally look like?</li>
+</ul></li>
+<li>Who needs it?
+<ul>
+<li>Why? What are they using right now?</li>
+</ul></li>
+<li>Why is this a good idea?</li>
+<li>Who are your competitors?</li>
+<li>How will you get users?</li>
+</ul>
+
+If you can hack, between now and Project 3 - get feedback from users, you should build out a prototype; no matter how simple or rough, you will find user feedback to be much more meaningful if you have something they can play with.
