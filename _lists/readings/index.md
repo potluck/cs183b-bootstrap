@@ -40,16 +40,23 @@ layout: default
   </li>
   <li>10/9/14, Lecture 6
   <ul>
-    <li>#10: <a href="https://medium.com/@joshelman/the-only-metric-that-matters-ab24a585b5ea">The only metric that matters</a> by Josh Elman</li>
-    <li>#11: <a href="http://youtu.be/raIUQP71SBU?t=29s">[video] How we put Facebook on the path to 1 billion users</a> - Chamath Palihapitiya; <a href="http://blog.chrisbarber.co/transcript-how-we-put-facebook-on-the-path-to-1-billion-users">(user-provided transcript)</a> </li>
+    <li>#10: <a href="http://youtu.be/raIUQP71SBU?t=29s">[video] How we put Facebook on the path to 1 billion users</a> - Chamath Palihapitiya; <a href="http://blog.chrisbarber.co/transcript-how-we-put-facebook-on-the-path-to-1-billion-users">(user-provided transcript)</a> </li>
+    <li>#11: <a href="http://www.inc.com/magazine/20091101/does-slow-growth-equal-slow-death.html">Does Slow Growth Equal Slow Death?</a> by Joel Spolsky</li>
+    <li>#12: <a href="http://jeff.a16z.com/2012/01/18/a-recipe-for-growth-adding-layers-to-the-cake/">A Recipe for Growth - Adding Layers to the Cake</a> by Jeff Jordan</li>
+    <li>#13:<a href="http://allthingsd.com/20121020/mark-zuckerberg-on-facebooks-early-days-go-hard-or-go-home/">Mark Zuckerberg on Facebook’s Early Days</a> by Mike Isaac</li>
+    <li>#14: <a href="http://allthingsd.com/20121020/the-secret-behind-pinterests-growth-was-marketing-not-engineering-says-ceo-ben-silbermann/">The Secret Behind Pinterest’s Growth Was Marketing, Not Engineering</a> by Liz Gannes</li>
+    <li>#15: <a href="https://www.facebook.com/photo.php?v=3707283286197">[video] Growth Accounting & Triangle Heatmap Explanation</a> by Danny Ferante</li>
+    <li>#16: <a href="http://www.paulgraham.com/growth.html">Startup = Growth</a> by Paul Graham</li>
+    <li>#17: <a href="http://www.businessweek.com/articles/2012-07-25/chasing-facebooks-next-billion-users">Chasing Facebook's Next Billion Users</a> by Douglas MacMillan</li>
+    <li>#18: <a href="http://www.livestream.com/f8industry/video?clipId=pla_a093cf1f-2d34-4e74-8377-9e54bc65d8e9">[video] Ready to Grow Breakout Session</a> at f8</li>
   </ul>
   </li>
   <li>10/14/14, Lecture 7
   <ul>
-  <li>#12: <a href="http://seriouspony.com/blog/2013/7/24/your-app-makes-me-fat">Your App Makes Me Fat</a> by Kathy Sierra</li>
-  <li>#13: <a href="http://www.uie.com/articles/design_intuitive/">What Makes a Design Intuitive</a> by Jared Spool</li>
-  <li>#14: <a href="http://vimeo.com/34081566">Creative mornings with Ben Chestnut [video]</a>; <a href="http://blog.chrisbarber.co/transcript-creative-mornings-with-ben-chestnut">(user-provided transcript)</a></li>
-  <li>#15: <a href="http://www.psychologytoday.com/articles/200910/what-makes-marriage-work">What Makes Marriages Work</a> by John Gottman, Nan Silver</li>
+  <li>#19: <a href="http://seriouspony.com/blog/2013/7/24/your-app-makes-me-fat">Your App Makes Me Fat</a> by Kathy Sierra</li>
+  <li>#20: <a href="http://www.uie.com/articles/design_intuitive/">What Makes a Design Intuitive</a> by Jared Spool</li>
+  <li>#21: <a href="http://vimeo.com/34081566">[video] Creative mornings with Ben Chestnut</a>; <a href="http://blog.chrisbarber.co/transcript-creative-mornings-with-ben-chestnut">(user-provided transcript)</a></li>
+  <li>#22: <a href="http://www.psychologytoday.com/articles/200910/what-makes-marriage-work">What Makes Marriages Work</a> by John Gottman, Nan Silver</li>
   <li><strong>Bonus Material</strong>
     <ul>
     <li>BJ Fogg’s <a href="http://www.behaviormodel.org/">Behavior Model</a></li>
