@@ -18,7 +18,9 @@ readings:
   - link: <a href="http://www.paulgraham.com/growth.html">Startup = Growth</a> by Paul Graham
   - link: <a href="http://www.businessweek.com/articles/2012-07-25/chasing-facebooks-next-billion-users">Chasing Facebook's Next Billion Users</a> by Douglas MacMillan
   - link: <a href="http://www.livestream.com/f8industry/video?clipId=pla_a093cf1f-2d34-4e74-8377-9e54bc65d8e9">[video] Ready to Grow Breakout Session</a> at f8
-
+genius_link: http://tech.genius.com/Alex-schultz-lecture-6-growth-annotated
+genius_divid: rg_embed_link_528966
+genius_script: //tech.genius.com/songs/528966/embed.js
 topic: Growth
 
 ---

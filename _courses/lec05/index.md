@@ -14,4 +14,7 @@ readings:
 video_link: //www.youtube.com/embed/5_0dVHMpJlo
 topic: Business Strategy and Monopoly Theory
 discussion_forum: https://startupclass.co/lecture/83458/10714-business-strategy-and-monopoly-theorybrbpeter-thielb-ifounder-paypal--palantir-and-partner-founders-fundi-----
+genius_link: http://tech.genius.com/Peter-thiel-lecture-5-business-strategy-and-monopoly-theory-annotated
+genius_divid: rg_embed_link_528965
+genius_script: //tech.genius.com/songs/528965/embed.js
 ---
