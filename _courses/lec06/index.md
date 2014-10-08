@@ -9,8 +9,16 @@ speakers:
     speaker_title: VP Growth, Facebook
     follow_link: <a href="https://twitter.com/alexschultz" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @alexschultz</a>
 readings:
-  - link: <a href="https://medium.com/@joshelman/the-only-metric-that-matters-ab24a585b5ea">The only metric that matters</a> by Josh Elman
   - link: <a href="http://youtu.be/raIUQP71SBU?t=29s">[video] How we put Facebook on the path to 1 billion users</a> - Chamath Palihapitiya
+  - link: <a href="http://www.inc.com/magazine/20091101/does-slow-growth-equal-slow-death.html">Does Slow Growth Equal Slow Death?</a> by Joel Spolsky
+  -  link: <a href="http://jeff.a16z.com/2012/01/18/a-recipe-for-growth-adding-layers-to-the-cake/">A Recipe for Growth: Adding Layers to the Cake</a> by Jeff Jordan
+  -  link: <a href="http://allthingsd.com/20121020/mark-zuckerberg-on-facebooks-early-days-go-hard-or-go-home/">Mark Zuckerberg on Facebook’s Early Days</a> by Mike Isaac
+  -  link: <a href="http://allthingsd.com/20121020/the-secret-behind-pinterests-growth-was-marketing-not-engineering-says-ceo-ben-silbermann/">The Secret Behind Pinterest’s Growth Was Marketing, Not Engineering</a> by Liz Gannes
+  -  link: <a href="https://www.facebook.com/photo.php?v=3707283286197">[video]Growth Accounting & Triangle Heatmap Explanation</a> by Danny Ferante
+  -  link: <a href="http://www.paulgraham.com/growth.html">Startup = Growth</a> by Paul Graham
+  -  link: <a href="http://www.businessweek.com/articles/2012-07-25/chasing-facebooks-next-billion-users">Chasing Facebook's Next Billion Users</a> by Douglas MacMillan
+  -  link: <a href="http://www.livestream.com/f8industry/video?clipId=pla_a093cf1f-2d34-4e74-8377-9e54bc65d8e9">[video]Ready to Grow Breakout Session</a> at f8
+
 topic: Growth
 
 ---
