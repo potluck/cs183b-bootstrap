@@ -22,5 +22,6 @@ genius_link: http://tech.genius.com/Alex-schultz-lecture-6-growth-annotated
 genius_divid: rg_embed_link_528966
 genius_script: //tech.genius.com/songs/528966/embed.js
 topic: Growth
+video_link: //www.youtube.com/embed/n_yHZ_vKjno
 
 ---
