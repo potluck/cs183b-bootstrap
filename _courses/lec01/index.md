@@ -9,12 +9,12 @@ speakers:
   - speaker_name: Sam Altman
     speaker_title: President, Y Combinator
     follow_link: <a href="https://twitter.com/sama" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @sama</a>
-    slides_link: https://www.dropbox.com/s/hb854k832ox4p3v/Lecture_1_Sam.pdf?dl=0
+    slides_link: https://view-api.box.com/1/sessions/95ab0d95b72942dcab9fe6e483b33d03/view
     first_name: Sam
   - speaker_name: Dustin Moskovitz
     speaker_title: Cofounder, Facebook, Cofounder, Asana, Cofounder, Good Ventures
     follow_link: <a href="https://twitter.com/moskov" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @moskov</a>
-    slides_link: https://www.dropbox.com/s/j2w5wbi4m15wgc3/Lecture_1_Dustin.pdf?dl=0
+    slides_link: https://view-api.box.com/1/sessions/e8c318c1945d4d0a9b3ac3bab12f8558/view
     first_name: Dustin
 topic: Welcome, and Ideas, Products, Teams and Execution Part I <br> <br> Why to Start a Startup
 readings:
