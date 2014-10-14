@@ -22,5 +22,5 @@ readings:
 genius_link: http://tech.genius.com/Kevin-hale-lecture-7-how-to-build-products-users-love-part-i-annotated
 genius_divid: rg_embed_link_528967
 genius_script: //tech.genius.com/songs/528967/embed.js
-
+discussion_forum: https://startupclass.co/lecture/83460/101414-how-to-build-products-users-love-part-ibrbkevin-haleb-ifounder-wufoo-and-partner-y-combinatori----
 ---
