@@ -10,7 +10,6 @@ speakers:
     follow_link: <a href="https://twitter.com/ilikevests" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @ilikevests</a>
 topic: How to Build Products Users Love, Part I
 readings:
-  - link: <a href="http://youtu.be/raIUQP71SBU?t=29s">[video] How we put Facebook on the path to 1 billion users</a> - Chamath Palihapitiya; <a href="http://blog.chrisbarber.co/transcript-how-we-put-facebook-on-the-path-to-1-billion-users">(user-provided transcript)</a>
   - link: <a href="http://seriouspony.com/blog/2013/7/24/your-app-makes-me-fat">Your App Makes Me Fat</a> by Kathy Sierra
   - link: <a href="http://www.uie.com/articles/design_intuitive/">What Makes a Design Intuitive</a> by Jared Spool
   - link: <a href="http://vimeo.com/34081566">[video] Creative mornings with Ben Chestnut</a>; <a href="http://blog.chrisbarber.co/transcript-creative-mornings-with-ben-chestnut">(user-provided transcript)</a>
