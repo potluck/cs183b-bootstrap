@@ -8,6 +8,8 @@ speakers:
   - speaker_name: Alex Schultz
     speaker_title: VP Growth, Facebook
     follow_link: <a href="https://twitter.com/alexschultz" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @alexschultz</a>
+    slides_link: https://view-api.box.com/1/sessions/8b8ba84cfc3c4b88a251065517d9f508/view
+    first_name: Alex
 readings:
   - link: <a href="http://youtu.be/raIUQP71SBU?t=29s">[video] How we put Facebook on the path to 1 billion users</a> - Chamath Palihapitiya; <a href="http://blog.chrisbarber.co/transcript-how-we-put-facebook-on-the-path-to-1-billion-users">(user-provided transcript)</a>
   - link: <a href="http://www.inc.com/magazine/20091101/does-slow-growth-equal-slow-death.html">Does Slow Growth Equal Slow Death?</a> by Joel Spolsky
