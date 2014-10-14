@@ -19,7 +19,6 @@ readings:
   - link: <a href="http://www.thisamericanlife.org/radio-archives/episode/261/transcript">The Sanctity of Marriage</a>, This American Life
   - link: <a href="http://headrush.typepad.com/">Creating Passionate Users</a>
 
-
 genius_link: http://tech.genius.com/Kevin-hale-lecture-7-how-to-build-products-users-love-part-i-annotated
 genius_divid: rg_embed_link_528967
 genius_script: //tech.genius.com/songs/528967/embed.js
