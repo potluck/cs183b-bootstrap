@@ -8,7 +8,7 @@ speakers:
   - speaker_name: Kevin Hale
     speaker_title: Founder, Wufoo and Partner, Y Combinator
     follow_link: <a href="https://twitter.com/ilikevests" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @ilikevests</a>
-    slides_link: https://view-api.box.com/1/sessions/d22b03d4982b4cd1b054e45187d9e7b1/view
+    slides_link: https://view-api.box.com/1/sessions/20b8a007b1e948ba9ae18abd151b7b32/view
     first_name: Kevin
 topic: How to Build Products Users Love, Part I
 readings:
