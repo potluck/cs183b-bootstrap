@@ -14,7 +14,7 @@ speakers:
   - speaker_name: Stanley Tang
     speaker_title: Founder, DoorDash
     follow_link: <a href="https://twitter.com/stanleytang" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @stanleytang</a>
-topic: Doing Things That Don't Scale <br> PR <br><br> How to Get Started
+topic: Doing Things That Don't Scale <br><br> PR <br><br> How to Get Started
 genius_link: http://tech.genius.com/William-sydney-walker-lecture-8-doing-things-that-dont-scale-pr-and-how-to-get-started-annotated
 genius_divid: rg_embed_link_528969
 genius_script: //tech.genius.com/songs/528969/embed.js
