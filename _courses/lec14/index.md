@@ -7,6 +7,11 @@ slug: lec14
 speakers:
   - speaker_name: Keith Rabois
     speaker_title: Partner, Khosla Ventures
+    follow_link: <a href="https://twitter.com/rabois" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @rabois</a>
 topic: How to Operate
+genius_link: http://tech.genius.com/Keith-rabois-lecture-14-how-to-operate-annotated
+genius_divid: rg_embed_link_528976
+genius_script: //tech.genius.com/songs/528976/embed.js
+discussion_forum: https://startupclass.co/lecture/83468/11614-how-to-operatebrbkeith-raboisb-ipartner-khosla-venturesi-----
 
 ---
