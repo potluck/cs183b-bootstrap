@@ -23,5 +23,6 @@ readings:
   - link: <a href="http://paulgraham.com/convince.html">How to Convince Investors</a> by Paul Graham
   - link: <a href="http://paulgraham.com/fr.html">How to Raise Money</a> by Paul Graham
   - link: <a href="http://reidhoffman.org/linkedin-pitch-to-greylock/">Linkedin’s Series B Picture to Greylock</a> by Reid Hoffman
+  - link: <a href="https://docs.google.com/spreadsheets/d/1KLCdlp4SW7Z64W_DWGwwuTIfH1GXRAMtPxv4EB5gKu0/edit?usp=sharing">Ron Conway's Recommended Reading List</a>
 discussion_forum: https://startupclass.co/lecture/83462/102114-how-to-raise-moneybrbmarc-andreessenb-ifounder-andreessen-horowitz-and-founder-netscapeibrbron-conwayb-ifounder-sv-angelibrbben-silbermannb-ifounder--ceo-pinteresti-----
 ---
