@@ -19,4 +19,5 @@ readings:
   - link: <a href="http://www.fastcompany.com/1657030/happiness-culture-zappos-isnt-company-its-mission">The Happiness Culture - Zappos isn’t a Company -- it’s a Mission</a>, Fast Company
   - link: <a href="https://medium.com/@bchesky/dont-fuck-up-the-culture-597cde9ee9d4">Don’t Fuck Up the Culture</a> by Brian Chesky
 discussion_forum: https://startupclass.co/lecture/83464/102314-company-culture-and-building-a-team-part-ibrbalfred-linb-iformer-coo-zappos-and-partner-sequoia-capital------i
+video_link: //www.youtube.com/embed/RfWgVWGEuGE
 ---
