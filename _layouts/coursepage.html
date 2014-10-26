@@ -49,6 +49,11 @@ layout: default
   {% endif %}</h4></h3>
 
 {% if page.genius_link %}
+<style type="text/css">
+  .rg_embed p {
+    font-weight: normal !important;
+  }
+</style>
 <div id='{{ page.genius_divid }}' class='rg_embed_link'>Read <a href="{{ page.genius_link }}"> {{ page.title }}</a> on News Genius</div>
 <script src='{{ page.genius_script }}'></script>
 {% endif %}
