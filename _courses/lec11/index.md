@@ -10,7 +10,7 @@ speakers:
     follow_link: <a href="https://twitter.com/patrickc" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @patrickc</a>
   - speaker_name: John Collison
     speaker_title: Co-Founder, Stripe
-    follow_link: <a href="https://twitter.com/collison" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @collison</a>
+    follow_link: <a href="https://twitter.com/collision" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @collision</a>
   - speaker_name: Ben Silbermann
     speaker_title: Founder & CEO, Pinterest
     follow_link: <a href="https://twitter.com/8en" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @8en</a>
