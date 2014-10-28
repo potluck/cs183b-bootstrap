@@ -22,5 +22,6 @@ readings:
   - link: <a href="http://blog.alexmaccaw.com/stripes-culture">What’s It Like to Work for Stripe</a> by Alex Maccaw
   - link: <a href="http://blog.samaltman.com/how-to-hire">How to Hire</a> by Sam Altman
 discussion_forum: https://startupclass.co/lecture/83465/102814-company-culture-and-building-a-team-part-iibrbpatrick-and-john-collisonb-ifounders-stripei----
+video_link: //www.youtube.com/embed/H8Dl8rZ6qwE
 
 ---
