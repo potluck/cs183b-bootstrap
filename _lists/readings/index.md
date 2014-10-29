@@ -105,6 +105,9 @@ layout: default
   <ul>
     <li>#35: <a href="http://reidhoffman.org/information-age-networked-age-network-literate/">The Information Age to the Networked Age: Are you Network Literate?</a> by Reid Hoffman</li>
     <li>#36: <a href="http://reidhoffman.org/alliance-visual-summary/">The Alliance: A Visual Summary</a> by Reid Hoffman</li>
+    <li>#37: <a href="https://www.linkedin.com/pulse/article/20131015161834-1213-what-i-wish-i-knew-before-pitching-linkedin-to-vcs">What I Wish I Knew Before Pitching LinkedIn to VCs</a> by Reid Hoffman</li>
+    <li>#38: <a href="https://www.linkedin.com/pulse/article/20130123161202-1213-if-why-and-how-founders-should-hire-a-professional-ceo?trk=mp-author-card">If, Why, and How Founders Should Hire a “Professional” CEO</a> by Reid Hoffman</li>
+    <li>#39: <a href="http://paulgraham.com/startupmistakes.html">The 18 Mistakes That Kill Startups</a> by Paul Graham</li>
   </ul>
   </li>
   <li><a href="/courses/lec14">11/6/14, Lecture 14</a>, Keith Rabois
