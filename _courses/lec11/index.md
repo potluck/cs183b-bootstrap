@@ -19,8 +19,8 @@ genius_link: http://tech.genius.com/Patrick-collison-lecture-11-company-culture-
 genius_divid: rg_embed_link_528972
 genius_script: //tech.genius.com/songs/528972/embed.js
 readings:
-  - link: <a href="http://blog.alexmaccaw.com/stripes-culture">What’s It Like to Work for Stripe</a> by Alex Maccaw
-  - link: <a href="http://blog.samaltman.com/how-to-hire">How to Hire</a> by Sam Altman
+  - link: Bill Walsh, The Score Takes Care of Itself, pp. 2-31, 137-146, 202-203
+  - link: Andy Grove, High Output Management, Chapters 3 (optional), 4, 9, 11, 13, 14 
 discussion_forum: https://startupclass.co/lecture/83465/102814-company-culture-and-building-a-team-part-iibrbpatrick-and-john-collisonb-ifounders-stripei----
 video_link: //www.youtube.com/embed/H8Dl8rZ6qwE
 
