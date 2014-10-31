@@ -112,7 +112,8 @@ layout: default
   </li>
   <li><a href="/courses/lec14">11/6/14, Lecture 14</a>, Keith Rabois
   <ul>
-    <li>TBA</li>
+    <li>Bill Walsh, The Score Takes Care of Itself, pp. 2-31, 137-146, 202-203</li>
+    <li>Andy Grove, High Output Management, Chapters 3 (optional), 4, 9, 11, 13, 14 </li>
   </ul>
   </li>
   <li><a href="/courses/lec15">11/11/14, Lecture 15</a>, Ben Horowitz
