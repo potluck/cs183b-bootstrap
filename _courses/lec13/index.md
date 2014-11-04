@@ -7,6 +7,8 @@ slug: lec13
 speakers:
   - speaker_name: Reid Hoffman
     speaker_title: Partner, Greylock Ventures and Founder, LinkedIn
+    slides_link: https://app.box.com/s/8b391ro7g8u6va1y92zu
+    first_name: Reid
     follow_link: <a href="https://twitter.com/reidhoffman" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @reidhoffman</a>
 topic: How To Be A Great Founder
 genius_link: http://tech.genius.com/Reid-hoffman-lecture-13-tba-annotated
@@ -19,6 +21,6 @@ readings:
   - link: <a href="https://www.linkedin.com/pulse/article/20130123161202-1213-if-why-and-how-founders-should-hire-a-professional-ceo?trk=mp-author-card">If, Why, and How Founders Should Hire a “Professional” CEO</a> by Reid Hoffman
   - link: <a href="http://paulgraham.com/startupmistakes.html">The 18 Mistakes That Kill Startups</a> by Paul Graham
 discussion_forum: https://startupclass.co/lecture/83467/11414-topic-tbabrbreid-hoffmanb-ipartner-greylock-ventures-and-founder-linkedin-i-----
-
+video_link: //www.youtube.com/embed/dQ7ZvO5DpIw
 
 ---
