@@ -9,7 +9,7 @@ speakers:
     speaker_title: Founder, Teespring
     follow_link: <a href="https://twitter.com/walkerteespring" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @walkerteespring</a>
   - speaker_name: Justin Kan
-    speaker_title: Founder, TwitchTV and Partner, Y Combinator
+    speaker_title: Founder, Twitch and Partner, Y Combinator
     follow_link: <a href="https://twitter.com/justinkan" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @justinkan</a>
   - speaker_name: Stanley Tang
     speaker_title: Founder, DoorDash

@@ -5,8 +5,8 @@ lecno: 16
 name: lec16
 slug: lec16
 speakers:
-  - speaker_name: Marissa Mayer
-    speaker_title: CEO, Yahoo
+  - speaker_name: Emmett Shear
+    speaker_title: Founder and CEO, Twitch
 topic: TBA
 
 ---
