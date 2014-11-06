@@ -7,6 +7,8 @@ slug: lec14
 speakers:
   - speaker_name: Keith Rabois
     speaker_title: Partner, Khosla Ventures
+    slides_link: https://view-api.box.com/1/sessions/c75ced2af19f4bafaf8ea9adc7ca3da6/view
+    first_name: Keith
     follow_link: <a href="https://twitter.com/rabois" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @rabois</a>
 topic: How to Operate
 genius_link: http://tech.genius.com/Keith-rabois-lecture-14-how-to-operate-annotated
@@ -16,5 +18,5 @@ readings:
   - link: Bill Walsh, The Score Takes Care of Itself, pp. 2-31, 137-146, 202-203
   - link: Andy Grove, High Output Management, Chapters 3 (optional), 4, 9, 11, 13, 14 
 discussion_forum: https://startupclass.co/lecture/83468/11614-how-to-operatebrbkeith-raboisb-ipartner-khosla-venturesi-----
-
+video_link: //www.youtube.com/embed/6fQHLK1aIBs
 ---
