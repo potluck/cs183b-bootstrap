@@ -59,9 +59,7 @@ layout: default
     <h2 class="page-header">
     Course Schedule
     </h2>
-    <a href="/lists/readings/">Readings posted through 11/11</a>, <a href="https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg/">Videos posted through 10/30</a>
-    <br>
-    <a href="/lists/projects">Project 2</a> has been posted! Submission will be on <a href="http://www.reddit.com/r/HTSASprojects/">reddit</a>
+    <a href="/lists/readings/">Readings posted through 11/11</a>, <a href="https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg/">Videos posted through 11/4</a>
     <br>
     Videos will be available on Stanford's iTunes U account soon!
     <table class="table table-striped table-bordered top-margin">
