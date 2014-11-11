@@ -59,7 +59,7 @@ layout: default
     <h2 class="page-header">
     Course Schedule
     </h2>
-    <a href="/lists/readings/">Readings posted through 11/11</a>, <a href="https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg/">Videos posted through 11/4</a>
+    <a href="/lists/readings/">Readings posted through 11/11</a>, <a href="https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg/">Videos posted through 11/6</a>
     <br>
     Videos will be available on Stanford's iTunes U account soon!
     <table class="table table-striped table-bordered top-margin">
@@ -71,8 +71,8 @@ layout: default
       {% for course in site.courses %}
 
       <tr>
-        <td>{% if course.lecno <= 15 %}<a href="/courses/{{ course.slug }}">{% endif %}
-          {{ course.date|remove:'"' }}{% if course.lecno <= 15 %}</a>{% endif %}
+        <td>{% if course.lecno <= 16 %}<a href="/courses/{{ course.slug }}">{% endif %}
+          {{ course.date|remove:'"' }}{% if course.lecno <= 16 %}</a>{% endif %}
         </td>
         <td>
           {% for speaker in course.speakers %}
@@ -82,8 +82,8 @@ layout: default
           {% endfor %}
         </td>
         <td>
-        {% if course.lecno <= 15 %}<a href="/courses/{{ course.slug }}">{% endif %}
-            {{ course.topic}}{% if course.lecno <= 15 %}</a>{% endif %}
+        {% if course.lecno <= 16 %}<a href="/courses/{{ course.slug }}">{% endif %}
+            {{ course.topic}}{% if course.lecno <= 16 %}</a>{% endif %}
 
         </td>
       </tr>
