@@ -7,6 +7,8 @@ slug: lec15
 speakers:
   - speaker_name: Ben Horowitz
     speaker_title: Founder, Andreessen Horowitz, and Founder, and Opsware
+    slides_link: https://view-api.box.com/1/sessions/09971c778fb5480fad8b7e57438fdc4d/view
+    first_name: Ben
     follow_link: <a href="https://twitter.com/bhorowitz" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @bhorowitz</a>
 topic: How to Manage
 genius_link: http://tech.genius.com/B-horowitz-lecture-15-how-to-manage-annotated
@@ -17,4 +19,5 @@ readings:
   - link: <a href="http://www.bhorowitz.com/a_good_place_to_work">A Good Place to Work</a> by Ben Horowitz
   - link: <a href="http://www.bhorowitz.com/how_to_minimize_politics_in_your_company">How to Minimize Politics in Your Company</a> by Ben Horowitz>
 discussion_forum: https://startupclass.co/lecture/83469/111114-how-to-managebrbben-horowitzb-ifounder-andreessen-horowitz-and-founder-and-opswarei-----
+video_link: //www.youtube.com/embed/uVhTvQXfibU
 ---
