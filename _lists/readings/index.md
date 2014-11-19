@@ -125,7 +125,7 @@ layout: default
   </li>
   <li><a href="/courses/lec17">11/18/14, Lecture 17</a>, Hosain Rahman
   <ul>
-    <li>#45: <a href="https://www.youtube.com/watch?v=ZpINPjfSlZc">Hosain Rahman at Startup School 2014</a>
+    <li>#45: <a href="https://www.youtube.com/watch?v=ZpINPjfSlZc">[video] Hosain Rahman at Startup School 2014</a>
   </ul>
 
 
