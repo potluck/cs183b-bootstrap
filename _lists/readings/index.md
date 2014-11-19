@@ -120,7 +120,7 @@ layout: default
   <ul>
     <li>#42: <a href="http://www.bhorowitz.com/making_yourself_a_ceo">Making Yourself a CEO</a> by Ben Horowitz</li>
     <li>#43: <a href="http://www.bhorowitz.com/a_good_place_to_work">A Good Place to Work</a> by Ben Horowitz</li>
-    <li>#44: <a href="http://www.bhorowitz.com/how_to_minimize_politics_in_your_company">How to Minimize Politics in Your Company</a> by Ben Horowitz></li>
+    <li>#44: <a href="http://www.bhorowitz.com/how_to_minimize_politics_in_your_company">How to Minimize Politics in Your Company</a> by Ben Horowitz</li>
   </ul>
   </li>
 
