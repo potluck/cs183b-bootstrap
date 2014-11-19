@@ -14,5 +14,7 @@ genius_link: http://tech.genius.com/Hosain-rahman-lecture-17-how-to-build-produc
 genius_divid: rg_embed_link_528981
 genius_script: //tech.genius.com/songs/528981/embed.js
 discussion_forum: https://startupclass.co/lecture/83471/111814-how-to-build-products-users-love-part-iibrbhosain-rahmanb-ifounder-jawbonei----
+readings:
+  - link: <a href="https://www.youtube.com/watch?v=ZpINPjfSlZc">Hosain Rahman at Startup School 2014</a>
 
 ---
