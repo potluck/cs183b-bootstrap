@@ -10,7 +10,7 @@ speakers:
     follow_link: <a href="https://twitter.com/ilikevests" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @ilikevests</a>
     slides_link: https://view-api.box.com/1/sessions/20b8a007b1e948ba9ae18abd151b7b32/view
     first_name: Kevin
-topic: How to Build Products Users Love, Part I
+topic: How to Build Products Users Love
 readings:
   - link: <a href="http://seriouspony.com/blog/2013/7/24/your-app-makes-me-fat">Your App Makes Me Fat</a> by Kathy Sierra
   - link: <a href="http://www.uie.com/articles/design_intuitive/">What Makes a Design Intuitive</a> by Jared Spool
