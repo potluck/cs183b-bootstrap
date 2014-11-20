@@ -130,7 +130,7 @@ layout: default
   </li>
   <li><a href="/courses/lec18">11/20/14, Lecture 18</a>, Carolynn Levy, Kirsty Nathoo - Startup Mechanics: Legal, HR, etc.
   <ul>
-    <li>#46: <a href="http://www.bothsidesofthetable.com/2010/01/21/how-to-work-with-lawyers-at-a-startup/">How to Work with Lawyers at a Startup</a></li>
+    <li>#46: <a href="http://www.bothsidesofthetable.com/2010/01/21/how-to-work-with-lawyers-at-a-startup/">How to Work with Lawyers at a Startup</a> by Mark Suster</li>
     <li>#47: <a href="http://www.startupcompanylawyer.com/">Startup Company Lawyer</a> by Yorim Taku</li>
   </ul>
   </li>
