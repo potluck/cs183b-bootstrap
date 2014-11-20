@@ -116,17 +116,24 @@ layout: default
     <li>#41: Andy Grove, High Output Management, Chapters 3 (optional), 4, 9, 11, 13, 14 </li>
   </ul>
   </li>
-  <li><a href="/courses/lec15">11/11/14, Lecture 15</a>, Ben Horowitz
+  <li><a href="/courses/lec15">11/11/14, Lecture 15</a>, Ben Horowitz - How to Manage
   <ul>
     <li>#42: <a href="http://www.bhorowitz.com/making_yourself_a_ceo">Making Yourself a CEO</a> by Ben Horowitz</li>
     <li>#43: <a href="http://www.bhorowitz.com/a_good_place_to_work">A Good Place to Work</a> by Ben Horowitz</li>
     <li>#44: <a href="http://www.bhorowitz.com/how_to_minimize_politics_in_your_company">How to Minimize Politics in Your Company</a> by Ben Horowitz</li>
   </ul>
   </li>
-  <li><a href="/courses/lec17">11/18/14, Lecture 17</a>, Hosain Rahman
+  <li><a href="/courses/lec17">11/18/14, Lecture 17</a>, Hosain Rahman - How to Design Hardware Products
   <ul>
-    <li>#45: <a href="https://www.youtube.com/watch?v=ZpINPjfSlZc">[video] Hosain Rahman at Startup School 2014</a>
+    <li>#45: <a href="https://www.youtube.com/watch?v=ZpINPjfSlZc">[video] Hosain Rahman at Startup School 2014</a></li>
   </ul>
+  </li>
+  <li><a href="/courses/lec18">11/20/14, Lecture 18</a>, Carolynn Levy, Kirsty Nathoo - Startup Mechanics: Legal, HR, etc.
+  <ul>
+    <li>#46: <a href="http://www.bothsidesofthetable.com/2010/01/21/how-to-work-with-lawyers-at-a-startup/">How to Work with Lawyers at a Startup</a></li>
+    <li>#47: <a href="http://www.startupcompanylawyer.com/">Startup Company Lawyer</a> by Yorim Taku</li>
+  </ul>
+  </li>
 
 
 </ul>
