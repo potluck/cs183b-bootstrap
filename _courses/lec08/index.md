@@ -19,7 +19,7 @@ genius_link: http://tech.genius.com/William-sydney-walker-lecture-8-doing-things
 genius_divid: rg_embed_link_528969
 genius_script: //tech.genius.com/songs/528969/embed.js
 readings:
-  - link: <a href="https://docs.google.com/document/d/1LQxnHxQ6xO54BHcoOmgEeuhdHwWwujKuSpzQbQnlThk">The Press is a Tool</a> by Alexia Tsosis
+  - link: <a href="https://docs.google.com/document/d/1LQxnHxQ6xO54BHcoOmgEeuhdHwWwujKuSpzQbQnlThk">The Press is a Tool</a> by Alexia Tsotsis
 discussion_forum: https://startupclass.co/lecture/83461/101614-strongwalker-williamsstrongi-founder-teespringibrstrongjustin-kanstrong-ifounder-twitchtv-and-partner-y-combinatoribrstrongstanley-tangstrongi-founder-doordashi-
 video_link: //www.youtube.com/embed/oQOC-qy-GDY
 ---
