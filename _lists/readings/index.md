@@ -69,7 +69,7 @@ layout: default
   </li>
   <li><a href="/courses/lec08">10/16/14, Lecture 8</a>, Walker Williams, Justin Kan, Stanley Tang - Doing Things that Don't Scale, PR, How to Get Started
   <ul>
-    <li>#23: <a href="https://docs.google.com/document/d/1LQxnHxQ6xO54BHcoOmgEeuhdHwWwujKuSpzQbQnlThk">The Press is a Tool</a> by Alexia Tsosis</li>
+    <li>#23: <a href="https://docs.google.com/document/d/1LQxnHxQ6xO54BHcoOmgEeuhdHwWwujKuSpzQbQnlThk">The Press is a Tool</a> by Alexia Tsotsis</li>
   </ul>
   </li>
   <li><a href="/courses/lec09">10/21/14, Lecture 9</a>, Marc Andreessen, Ron Conway, Parker Conrad - How to Raise Money
