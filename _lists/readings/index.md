@@ -98,7 +98,7 @@ layout: default
   <ul>
     <li>#32: <a href="http://www.technologyreview.com/news/522081/the-continuous-productivity-of-aaron-levie/">The Continuous Productivity of Aaron Levie</a>, MIT Technology Review</li>
     <li>#33: <a href="http://en.wikipedia.org/wiki/Robert_Cialdini#6_key_principles_of_influence_by_Robert_Cialdini">Robert Cialdini’s six principles of influence</a></li>
-    <li>#34: <a href="http://techcrunch.com/2013/01/27/marc-andreessen-on-the-future-of-the-enterprise/">Marc Andreessen on the Future of Enterprise</a> by Alexia Tsosis</li>
+    <li>#34: <a href="http://techcrunch.com/2013/01/27/marc-andreessen-on-the-future-of-the-enterprise/">Marc Andreessen on the Future of Enterprise</a> by Alexia Tsotsis</li>
   </ul>
   </li>
   <li><a href="/courses/lec13">11/4/14, Lecture 13</a>, Reid Hoffman - How to Be a Great Founder
