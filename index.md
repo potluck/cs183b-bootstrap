@@ -71,8 +71,8 @@ layout: default
       {% for course in site.courses %}
 
       <tr>
-        <td>{% if course.lecno <= 18 %}<a href="/courses/{{ course.slug }}">{% endif %}
-          {{ course.date|remove:'"' }}{% if course.lecno <= 18 %}</a>{% endif %}
+        <td>{% if course.lecno <= 20 %}<a href="/courses/{{ course.slug }}">{% endif %}
+          {{ course.date|remove:'"' }}{% if course.lecno <= 20 %}</a>{% endif %}
         </td>
         <td>
           {% for speaker in course.speakers %}
@@ -82,8 +82,8 @@ layout: default
           {% endfor %}
         </td>
         <td>
-        {% if course.lecno <= 18 %}<a href="/courses/{{ course.slug }}">{% endif %}
-            {{ course.topic}}{% if course.lecno <= 18 %}</a>{% endif %}
+        {% if course.lecno <= 20 %}<a href="/courses/{{ course.slug }}">{% endif %}
+            {{ course.topic}}{% if course.lecno <= 20 %}</a>{% endif %}
 
         </td>
       </tr>
