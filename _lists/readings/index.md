@@ -134,6 +134,15 @@ layout: default
     <li>#47: <a href="http://www.startupcompanylawyer.com/">Startup Company Lawyer</a> by Yokum Taku</li>
   </ul>
   </li>
+  <li><a href="/courses/lec19">12/2/14, Lecture 19</a>, Tyler Bosmeny, Michael Seibel, Dalton Caldwell, Qasar Younis - Sales and Marketing, How to Pitch, Investor Meeting Roleplaying
+  <ul>
+    <li>#48: <a href="http://saastr.com/the-best-of-saastr/">SaaStr – From-the-trenches sales advice</a>  by Jason Lemkin, founder of EchoSign</li>
+    <li>#49: <a href="http://www.amazon.com/How-Raised-Myself-From-Failure-ebook/dp/B002XQAAWW">How I Raised Myself From Failure to Success In Selling</a> by Frank Bettger (1949)</li>
+    <li>#50: <a href="https://medium.com/@chrija/five-ways-to-build-a-100-million-business-82ac6ea8ffd9">Five ways to build a $100 million business</a> by Cristoph Janz</li>
+    <li>#51: <a href="http://venturehacks.wpengine.com/wp-content/uploads/2009/12/Pitching-Hacks.pdf">Pitching Hacks! How to pitch startups to investors</a> by <a href="http://venturehacks.com/pitching">Venture Hacks</a></li>
+    
+  </ul>
+  </li>
 
 
 </ul>
