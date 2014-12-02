@@ -25,7 +25,7 @@ readings:
   - link: <a href="https://medium.com/@chrija/five-ways-to-build-a-100-million-business-82ac6ea8ffd9">Five ways to build a $100 million business</a> by Cristoph Janz
   - link: <a href="http://venturehacks.wpengine.com/wp-content/uploads/2009/12/Pitching-Hacks.pdf">Pitching Hacks! How to pitch startups to investors</a> by <a href="http://venturehacks.com/pitching">Venture Hacks</a>
 discussion_forum: https://startupclass.co/lecture/83473/12214-tbabrbtbab
-
+video_link: //www.youtube.com/embed/SHAh6WKBgiE
 
 
 ---
