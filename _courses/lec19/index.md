@@ -15,7 +15,7 @@ speakers:
     speaker_title: Partners, Y Combinator
     follow_link: <a href="https://twitter.com/Qasar" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @Qasar</a>, <a href="https://twitter.com/daltonc" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @daltonc</a>
 
-topic: Sales and Marketing <br><br> How to Pitch <br><br> Investor Meeting Roleplaying
+topic: Sales and Marketing <br><br> How to Talk to Investors <br><br> Investor Meeting Roleplaying
 genius_link: http://genius.com/Tba-lecture-19-tba-annotated
 genius_divid: rg_embed_link_528983
 genius_script: //tech.genius.com/songs/528983/embed.js
