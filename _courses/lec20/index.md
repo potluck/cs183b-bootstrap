@@ -7,6 +7,6 @@ slug: lec20
 speakers:
   - speaker_name: Sam Altman
     speaker_title: President, Y Combinator
-topic: Closing Thoughts and Later-Stage Advice
+topic: Later-Stage Advice
 
 ---
