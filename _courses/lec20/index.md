@@ -8,5 +8,6 @@ speakers:
   - speaker_name: Sam Altman
     speaker_title: President, Y Combinator
 topic: Later-Stage Advice
+video_link: //www.youtube.com/embed/59ZQ-rf6iIc
 
 ---
