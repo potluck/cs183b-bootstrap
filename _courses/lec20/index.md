@@ -11,5 +11,8 @@ speakers:
     first_name: Sam
 topic: Later-Stage Advice
 video_link: //www.youtube.com/embed/59ZQ-rf6iIc
-
+discussion_forum: https://startupclass.co/lecture/83473/12214-tbabrbtbab
+genius_link: http://tech.genius.com/Sam-altman-lecture-20-closing-thoughts-and-later-stage-advice-annotated
+genius_divid: rg_embed_link_528984
+genius_script: //tech.genius.com/songs/528984/embed.js
 ---
