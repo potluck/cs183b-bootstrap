@@ -59,7 +59,7 @@ layout: default
     <h2 class="page-header">
     Course Schedule
     </h2>
-    <a href="/lists/readings/">Readings posted through 12/2</a>, <a href="https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg/">Videos posted through 12/2</a>
+    <a href="/lists/readings/">Readings posted through 12/4</a>, <a href="https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg/">Videos posted through 12/4</a>
     <br>
     Videos will be available on Stanford's iTunes U in mid-December.
     <table class="table table-striped table-bordered top-margin">
