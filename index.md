@@ -61,7 +61,7 @@ layout: default
     </h2>
     <a href="/lists/readings/">Readings posted through 12/4</a>, <a href="https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg/">Videos posted through 12/4</a>
     <br>
-    Videos will be available on Stanford's iTunes U in mid-December.
+    <a href="https://itunes.apple.com/us/course/how-to-start-a-startup/id951932247">Videos and podcasts are now available on Stanford's iTunes U.</a>
     <table class="table table-striped table-bordered top-margin">
       <tr>
         <td>Date</td>
