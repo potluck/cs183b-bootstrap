@@ -7,7 +7,7 @@ slug: lec13
 speakers:
   - speaker_name: Reid Hoffman
     speaker_title: Partner, Greylock Ventures and Founder, LinkedIn
-    slides_link: https://app.box.com/s/8b391ro7g8u6va1y92zu
+    slides_link: https://view-api.box.com/1/sessions/4cab4c12acbb4497bf7e17a00f0dc077/view
     first_name: Reid
     follow_link: <a href="https://twitter.com/reidhoffman" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @reidhoffman</a>
 topic: How To Be A Great Founder
