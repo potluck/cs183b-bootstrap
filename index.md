@@ -13,7 +13,7 @@ layout: default
     <iframe src="//www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2Fsamaltman&amp;width&amp;height=80&amp;colorscheme=light&amp;layout=button&amp;show_faces=true&amp;appId=178422522168165" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:20px;" allowTransparency="true"></iframe>
   </h3>
   <h4><strong>Everything we know about how to start a startup, for free, from some of the world experts.</strong></h4>
-  <a href="http://eepurl.com/3oe0H" class="btn btn-warning btn-lg"><span class="glyphicon glyphicon-envelope"></span>  Sign Up</a> and <a href="https://www.facebook.com/groups/556336557801913/" class="btn btn-primary btn-lg"> Join the community </a>
+  <a href="https://www.facebook.com/groups/556336557801913/" class="btn btn-primary btn-lg"> Join the community </a>
 </div>
 <div class="row">
   <div class="col-sm-6">
