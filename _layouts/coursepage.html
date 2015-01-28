@@ -1,15 +1,59 @@
 ---
 layout: default
 ---
+  <h1><a href="/">How to Start a Startup</a> <a href="https://www.facebook.com/groups/556336557801913/" class="btn btn-primary btn-lg"> Join the community </a></h1>
+  <h3> Sam Altman {% if page.lecno > 2 %}<a href="https://twitter.com/sama" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @sama</a> {% endif %}</h3>
+  <hr />
 
 <div class="jumbotron">
+{% if page.video_link %}
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" width="560" height="315" src="{{ page.video_link }}" frameborder="0" allowfullscreen></iframe>
+</div>
+{% else %}
+<p> Lecture video will be available by 4 PM Pacific Time on {{ page.date }}</p>
+{% endif %}
   <h3>
     Lecture {{page.lecno}}: {{ page.topic }}
   </h3>
-  By: <br>
+  <br>
   {% for speaker in page.speakers %}
-    <strong>{{ speaker.speaker_name }}</strong>
+    <strong>{{ speaker.speaker_name }} {{ speaker.follow_link }}</strong>
+    {% if speaker.slides_link %}, View {{ speaker.first_name }}'s <a href="{{ speaker.slides_link }}">Slide Deck</a>. {% endif %}
     <br>
   {% endfor %}
+
+  {% if page.genius_link %}
+  <br> <a href="{{ page.genius_link }}">View the annotated transcript</a>, and add annotations of your own, on Genius, or directly at the bottom of this page!
+  {% endif %}
+
+  {% if page.discussion_forum %}
+  <br>
+  <p> <b><a href="{{ page.discussion_forum}}">Discuss this lecture!</a><b> </p>
+  {% endif %}
+
+
 </div>
-  <h3>Lecture video coming soon - will be posted on {{ page.date|remove:'"'  }}</h3>
+
+  <h3>Readings (<a href="/lists/readings">all</a>):
+  {% if page.readings %}
+  <h4>
+  <ul>
+  {% for reading in page.readings %}
+  <li>
+    {{ reading.link }}
+    <br>
+  </li>
+  {% endfor %}
+  </ul>
+  {% endif %}</h4></h3>
+
+{% if page.genius_link %}
+<style type="text/css">
+  .rg_embed p {
+    font-weight: normal !important;
+  }
+</style>
+<div id='{{ page.genius_divid }}' class='rg_embed_link'>Read <a href="{{ page.genius_link }}"> {{ page.title }}</a> on News Genius</div>
+<script src='{{ page.genius_script }}'></script>
+{% endif %}
