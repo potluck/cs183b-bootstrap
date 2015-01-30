@@ -3,17 +3,14 @@ title: "Projects"
 layout: default
 ---
 
-<h1><a href="/">How to Start a Startup</a> <a href="http://eepurl.com/3oe0H" class="btn btn-warning btn-sm"><span class="glyphicon glyphicon-envelope"></span> Sign Up</a></h1>
+<h1><a href="/">How to Start a Startup</a> <a href="https://www.facebook.com/groups/556336557801913/" class="btn btn-primary btn-sm"> Join the community </a></h1>
 <h3> Sam Altman <a href="https://twitter.com/sama" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @sama</a></h3>
 <hr />
 
 <h3> Projects</h3>
-Projects will be peer evaluated, on the <a href="http://reddit.com/r/HTSASprojects/">HTSAS Projects subreddit</a>.
-Please see the rules on the subreddit regarding how to correctly format your submission.
-<br>
-There is no set due date - you are free to submit your projects to the subreddit at any time.
+When the course was in progress, viewers were able to complete the projects below and have them peer evaluated on the  <a href="http://reddit.com/r/HTSASprojects/">HTSAS Projects subreddit</a>. You may find the projects below instructive, especially if you have a group you are watching the videos with, to discuss your ideas.
 <br><br>
-<h4><strong><u>Project 0</u></strong>, released 9/23/14</h4>
+<h4><strong><u>Project 0</u></strong>, released with Lecture 1</h4>
 For two weeks, keep a log of all the things that seem to be missing and all the problems you encounter in life.
 
 <u>Notes:</u>
@@ -24,12 +21,12 @@ As PG suggests, turn off all of your other filters, including whether the thing 
 
 By the end of the 2 weeks, there should be plenty of items in your log.
 <br><br>
-<h4><strong><u>Project 1</u></strong>, released 9/30/14</h4>
+<h4><strong><u>Project 1</u></strong>, released with Lecture 3</h4>
 Come up with 5 business ideas. For each, briefly answer the following questions: what are you going to build? Who needs it? How do you know? Why is this a good idea?
 
 <u>Note:</u> The ideas don’t need to be related to any of the things in your log, but it would be surprising if none of those problems had a related business idea.
 <br><br>
-<h4><strong><u>Project 2</u></strong>, released 10/7/14</h4>
+<h4><strong><u>Project 2</u></strong>, released with Lecture 5</h4>
 Choose one of your ideas from Project 1, and refine it. Write a 2 page overview fleshing out answers to the questions:
 <ul>
 <li>What are you going to build?
@@ -44,5 +41,3 @@ Choose one of your ideas from Project 1, and refine it. Write a 2 page overview 
 <li>Who are your competitors?</li>
 <li>How will you get users?</li>
 </ul>
-
-If you can hack, between now and Project 3 - get feedback from users, you should build out a prototype; no matter how simple or rough, you will find user feedback to be much more meaningful if you have something they can play with.

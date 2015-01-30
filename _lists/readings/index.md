@@ -3,11 +3,11 @@ title: "Readings"
 layout: default
 ---
 
-<h1><a href="/">How to Start a Startup</a> <a href="http://eepurl.com/3oe0H" class="btn btn-warning btn-sm"><span class="glyphicon glyphicon-envelope"></span> Sign Up</a></h1>
+<h1><a href="/">How to Start a Startup</a> <a href="https://www.facebook.com/groups/556336557801913/" class="btn btn-primary btn-sm"> Join the community </a></h1>
 <h3> Sam Altman <a href="https://twitter.com/sama" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @sama</a></h3>
 <hr />
 
-<h3> Recommended Readings, to be read before watching the lecture: </h3> (Future readings are subject to change)
+<h3> Recommended Readings, to be read before watching the lecture: </h3>
 <ul>
   <li><a href="/courses/lec01">9/23/14, Lecture 1</a>, Sam Altman and Dustin Moskovitz - Ideas and Products; Why to Start a Startup
   <ul>
