@@ -17,6 +17,7 @@ readings:
   - link: <a href="http://blogs.wsj.com/accelerators/2014/06/03/jessica-livingston-why-startups-need-to-focus-on-sales-not-marketing/">Why Startups Need to Focus on Sales, Not Marketing</a> by Jessica Livingston
 discussion_forum: https://startupclass.co/lecture/83457/10214-building-product-talking-to-users-and-growingbrbadora-cheungb-ifounder-homejoyi----
 video_link: //www.youtube.com/embed/yP176MBG9Tk
+video_id: yP176MBG9Tk
 genius_link: http://tech.genius.com/Adora-cheung-lecture-4-building-product-talking-to-users-and-growing-annotated
 genius_divid: rg_embed_link_526824
 genius_script: //tech.genius.com/songs/526824/embed.js

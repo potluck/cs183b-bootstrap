@@ -14,6 +14,7 @@ speakers:
 readings:
   - link: <a href="https://www.dropbox.com/s/ujtrbcltiy6hgpy/ZtOChapters3-5.pdf?dl=0">Chapter 3-5 of Zero to One</a> by Peter Thiel
 video_link: //www.youtube.com/embed/5_0dVHMpJlo
+video_id: 5_0dVHMpJlo
 topic: Competition is For Losers
 discussion_forum: https://startupclass.co/lecture/83458/10714-business-strategy-and-monopoly-theorybrbpeter-thielb-ifounder-paypal--palantir-and-partner-founders-fundi-----
 genius_link: http://tech.genius.com/Peter-thiel-lecture-5-business-strategy-and-monopoly-theory-annotated

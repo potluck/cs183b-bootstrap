@@ -31,6 +31,7 @@ readings:
   - link: Note - The Sales docs Tyler mentioned should be available by the end of January
 discussion_forum: https://startupclass.co/lecture/83473/12214-tbabrbtbab
 video_link: //www.youtube.com/embed/SHAh6WKBgiE
+video_id: SHAh6WKBgiE
 
 
 ---

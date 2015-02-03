@@ -25,6 +25,7 @@ genius_divid: rg_embed_link_528966
 genius_script: //tech.genius.com/songs/528966/embed.js
 topic: Growth
 video_link: //www.youtube.com/embed/n_yHZ_vKjno
+video_id: n_yHZ_vKjno
 discussion_forum: https://startupclass.co/lecture/83459/10914-growthbrbalex-schultzb-ivp-growth-facebook-i
 
 ---

@@ -19,4 +19,5 @@ readings:
   - link: Useful resources - <a href="http://clerky.com">clerky.com</a>, <a href="http://zenpayroll.com">zenpayroll.com</a>, <a href="http://zenefits.com">zenefits.com</a>
 discussion_forum: https://startupclass.co/lecture/83472/112014-mechanics--legal-finance-hr-etcbrbkirsty-nathoo-and-carolynn-levyb-ipartners-y-combinatori----
 video_link: //www.youtube.com/embed/EHzvmyMJEK4
+video_id: EHzvmyMJEK4
 ---

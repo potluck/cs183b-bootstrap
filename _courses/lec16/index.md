@@ -10,6 +10,7 @@ speakers:
     follow_link: <a href="https://twitter.com/eshear" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @eshear</a>
 topic: How to Run a User Interview
 video_link: //www.youtube.com/embed/qAws7eXItMk
+video_id: qAws7eXItMk
 genius_link: http://tech.genius.com/Emmett-shear-lecture-16-how-to-run-a-user-interview-annotated
 genius_divid: rg_embed_link_528979
 genius_script: //tech.genius.com/songs/528979/embed.js

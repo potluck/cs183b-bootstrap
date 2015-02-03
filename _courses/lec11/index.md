@@ -24,5 +24,6 @@ readings:
   
 discussion_forum: https://startupclass.co/lecture/83465/102814-company-culture-and-building-a-team-part-iibrbpatrick-and-john-collisonb-ifounders-stripei----
 video_link: //www.youtube.com/embed/H8Dl8rZ6qwE
+video_id: H8Dl8rZ6qwE
 
 ---

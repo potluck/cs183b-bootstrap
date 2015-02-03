@@ -20,4 +20,5 @@ readings:
   - link: <a href="http://www.bhorowitz.com/how_to_minimize_politics_in_your_company">How to Minimize Politics in Your Company</a> by Ben Horowitz>
 discussion_forum: https://startupclass.co/lecture/83469/111114-how-to-managebrbben-horowitzb-ifounder-andreessen-horowitz-and-founder-and-opswarei-----
 video_link: //www.youtube.com/embed/uVhTvQXfibU
+video_id: uVhTvQXfibU
 ---

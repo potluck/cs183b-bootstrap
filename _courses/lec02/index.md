@@ -16,6 +16,7 @@ readings:
   - link: <a href="http://blog.samaltman.com/stupid-apps-and-changing-the-world">Stupid Apps and Changing the World</a> by Sam Altman
   - link: <a href="http://paulgraham.com/ds.html">Do things that Don’t Scale</a> by Paul Graham
 video_link: //www.youtube.com/embed/CVfnkM44Urs
+video_id: CVfnkM44Urs
 discussion_forum: http://startupclass.co/lecture/83455/-welcome-and-ideas-products-teams-and-execution-part-iibr
 genius_link: http://tech.genius.com/Sam-altman-lecture-2-ideas-products-teams-and-execution-part-ii-annotated
 genius_divid: rg_embed_link_525716

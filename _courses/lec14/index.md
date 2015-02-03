@@ -19,4 +19,5 @@ readings:
   - link: Andy Grove, High Output Management, Chapters 3 (optional), 4, 9, 11, 13, 14 
 discussion_forum: https://startupclass.co/lecture/83468/11614-how-to-operatebrbkeith-raboisb-ipartner-khosla-venturesi-----
 video_link: //www.youtube.com/embed/6fQHLK1aIBs
+video_id: 6fQHLK1aIBs
 ---

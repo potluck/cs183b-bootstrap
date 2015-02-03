@@ -21,4 +21,5 @@ readings:
   - link: <a href="http://techcrunch.com/2013/01/27/marc-andreessen-on-the-future-of-the-enterprise/">Marc Andreessen on the Future of Enterprise</a> by Alexia Tsotsis
 discussion_forum: https://startupclass.co/lecture/83466/103014-sales-and-marketingbrbaaron-levieb-ifounder-boxi-----
 video_link: //www.youtube.com/embed/tFVDjrvQJdw
+video_id: tFVDjrvQJdw
 ---

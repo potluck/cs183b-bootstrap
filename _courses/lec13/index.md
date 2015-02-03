@@ -22,5 +22,6 @@ readings:
   - link: <a href="http://paulgraham.com/startupmistakes.html">The 18 Mistakes That Kill Startups</a> by Paul Graham
 discussion_forum: https://startupclass.co/lecture/83467/11414-topic-tbabrbreid-hoffmanb-ipartner-greylock-ventures-and-founder-linkedin-i-----
 video_link: //www.youtube.com/embed/dQ7ZvO5DpIw
+video_id: dQ7ZvO5DpIw
 
 ---
