@@ -20,8 +20,8 @@ topic: Welcome, and Ideas, Products, Teams and Execution Part I <br> <br> Why to
 readings:
   - link: <a href="http://blog.samaltman.com/advice-for-ambitious-19-year-olds">Advice for Ambitious 19 year olds</a> by Sam Altman
   - link: <a href="https://medium.com/i-m-h-o/good-and-bad-reasons-to-become-an-entrepreneur-decf0766de8d">Good and Bad Reasons to Become an Entrepreneur</a> by Dustin Moskovitz
-video_link: //www.youtube.com/embed/CBYhVcO4WgIz
-video_id: CBYhVcO4WgIz
+video_link: //www.youtube.com/embed/CBYhVcO4WgI
+video_id: CBYhVcO4WgI
 discussion_forum: http://startupclass.co/lecture/83454/-welcome-and-ideas-products-teams-and-execution-part-ibr
 genius_link: http://tech.genius.com/Sam-altman-how-to-start-a-startup-lecture-1-annotated
 genius_divid: rg_embed_link_524368
