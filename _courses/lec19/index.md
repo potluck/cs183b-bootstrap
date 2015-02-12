@@ -28,7 +28,7 @@ readings:
   - link: <a href="http://www.amazon.com/How-Raised-Myself-From-Failure-ebook/dp/B002XQAAWW">How I Raised Myself From Failure to Success In Selling</a> by Frank Bettger (1949)
   - link: <a href="https://medium.com/@chrija/five-ways-to-build-a-100-million-business-82ac6ea8ffd9">Five ways to build a $100 million business</a> by Cristoph Janz
   - link: <a href="http://venturehacks.wpengine.com/wp-content/uploads/2009/12/Pitching-Hacks.pdf">Pitching Hacks! How to pitch startups to investors</a> by <a href="http://venturehacks.com/pitching">Venture Hacks</a>
-  - link: Note - The Sales docs Tyler mentioned should be available by the end of January
+  - link: <a href="http://www.ycombinator.com/documents/#sales">YC Open source sales template agreement</a> (as referred to by Tyler)
 discussion_forum: https://startupclass.co/lecture/83473/12214-tbabrbtbab
 video_link: //www.youtube.com/embed/SHAh6WKBgiE
 video_id: SHAh6WKBgiE
