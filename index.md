@@ -14,7 +14,7 @@ layout: default
   </h3>
   <h4><strong>Everything we know about how to start a startup, for free, from some of the world experts.</strong></h4>
   <h5>How to Start a Startup is a series of video lectures, initially given at Stanford in Fall 2014. Videos are below, and you can also check out: </h5>
-  <h4><a href="lists/readings">Recommended Readings</a> | <a href="https://www.facebook.com/groups/556336557801913/">Facebook Community</a> | <a href="https://startupclass.co/">Discussion Forum</a> | <a href="lists/about/">More Details</a></h4>
+  <h4><a href="lists/readings">Recommended Readings</a> | <a href="lists/about/">More Resources</a></h4>
   <h4> <strong>New: The <a href="http://the1st30.com/">How to Start a Startup ebook</a>! </strong> </h4>
   
 </div>

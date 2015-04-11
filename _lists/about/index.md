@@ -3,7 +3,7 @@ title: "About"
 layout: default
 ---
 
-<h1><a href="/">How to Start a Startup</a> <a href="https://www.facebook.com/groups/556336557801913/" class="btn btn-primary btn-sm"> Join the community </a></h1>
+<h1><a href="/">How to Start a Startup</a>
 <h3> Sam Altman <a href="https://twitter.com/sama" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @sama</a></h3>
 <hr />
 
@@ -48,6 +48,7 @@ layout: default
     <a href="http://www.youtube.com/playlist?list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1">Videos as a Youtube playlist</a>, or <a href="https://itunes.apple.com/us/course/how-to-start-a-startup/id951932247"><strong>podcasts</strong> through Stanford's iTunes U.</a> <br />
     <a href ="/lists/readings/">Recommended <strong>Readings</strong></a> <br />
     <a href="/lists/projects/">Optional <strong>Projects</strong></a> <br />
+    The <a href="http://the1st30.com/">How to Start a Startup <strong>ebook</strong></a> <br />
     Lecture pages below include slide decks and lecture transcripts.
     <table class="table table-striped table-bordered top-margin">
       <tr>
