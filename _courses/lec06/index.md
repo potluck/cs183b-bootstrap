@@ -1,5 +1,5 @@
 ---
-date: '"10/9/14"'
+date: '"2014-10-09"'
 layout: coursepage
 lecno: 6
 name: lec06

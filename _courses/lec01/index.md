@@ -1,6 +1,6 @@
 ---
 title: "Lecture 1 - How to Start a Startup"
-date: '"9/23/14"'
+date: '"2014-09-23"'
 layout: coursepage
 lecno: 1
 name: lec01
