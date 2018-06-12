@@ -8,7 +8,7 @@ speakers:
   - speaker_name: Tyler Bosmeny
     speaker_title: Founder and CEO, Clever
     follow_link: <a href="https://twitter.com/bosmeny" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @bosmeny</a>
-    slides_link: https://view-api.box.com/1/sessions/1f65eae0ac54493788006a3aec1541bc/view
+    slides_link: https://www.dropbox.com/s/6la8pcrlrfwjqym/Tyler%20Clever2.pdf?dl=0
     first_name: Tyler
   - speaker_name: Michael Seibel
     speaker_title: Partner, Y Combinator
