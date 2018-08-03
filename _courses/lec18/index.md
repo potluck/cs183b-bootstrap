@@ -8,7 +8,7 @@ speakers:
   - speaker_name: Kirsty Nathoo, Carolynn Levy
     speaker_title: Partners, Y Combinator
     first_name: Kirsty and Carolynn
-    slides_link: https://view-api.box.com/1/sessions/95d8d49bf87248449a6ca40eb1669e27/view
+    slides_link: https://www.dropbox.com/s/92v2yw3bzgtkudk/LegalAccountingStartupBasics.pdf?dl=0
 topic: Legal and Accounting Basics for Startups
 genius_link: http://tech.genius.com/Kirsty-nathoo-lecture-18-mechanics-legal-finance-hr-etc-annotated
 genius_divid: rg_embed_link_528982
