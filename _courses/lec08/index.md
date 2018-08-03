@@ -8,16 +8,16 @@ speakers:
   - speaker_name: Walker Williams
     speaker_title: Founder, Teespring
     follow_link: <a href="https://twitter.com/walkerteespring" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @walkerteespring</a>
-    slides_link: https://view-api.box.com/1/sessions/18e9eefbeedf4c49b4f92dc4a7d4d27c/view
+    slides_link: https://www.dropbox.com/s/w1xikpjrivbda67/Lecture8_Walker.pdf?dl=0
     first_name: Walker
   - speaker_name: Justin Kan
     speaker_title: Founder, Twitch and Partner, Y Combinator
-    slides_link: https://view-api.box.com/1/sessions/9f8afddfd57645cebdd22f56292a524b/view
+    slides_link: https://www.dropbox.com/s/gk1ppo8yoh1y4dd/Lecture8_Justin.pdf?dl=0
     first_name: Justin
     follow_link: <a href="https://twitter.com/justinkan" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @justinkan</a>
   - speaker_name: Stanley Tang
     speaker_title: Founder, DoorDash
-    slides_link: https://view-api.box.com/1/sessions/0046897cee634c3c8a80a8758754cd58/view
+    slides_link: https://www.dropbox.com/s/sor31kxk1qc3q6a/Lecture8_Stanley.pdf?dl=0
     first_name: Stanley
     follow_link: <a href="https://twitter.com/stanleytang" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @stanleytang</a>
 topic: Doing Things That Don't Scale <br><br> PR <br><br> How to Get Started
