@@ -9,7 +9,7 @@ speakers:
   - speaker_name: Sam Altman
     speaker_title: President, Y Combinator
     follow_link: <a href="https://twitter.com/sama" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @sama</a>
-    slides_link: https://view-api.box.com/1/sessions/3cac4b39fa6b402fa06bfe6cef6a312e/view
+    slides_link: https://www.dropbox.com/s/56jiukip7i8mi0h/Lecture2.pdf?dl=0
     first_name: Sam
 topic: Ideas, Products, Teams and Execution Part II
 readings:
