@@ -12,7 +12,7 @@ speakers:
     first_name: Tyler
   - speaker_name: Michael Seibel
     speaker_title: Partner, Y Combinator
-    slides_link: https://view-api.box.com/1/sessions/e8c1ea36148c4a759dac7242c75dde5d/view
+    slides_link: https://www.dropbox.com/s/y2bvl36n2mn0979/Qasar.pdf?dl=0
     first_name: Michael, Qasar, and Dalton
     follow_link: <a href="https://twitter.com/mwseibel" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @mwseibel</a>
   - speaker_name: Qasar Younis, Dalton Caldwell
