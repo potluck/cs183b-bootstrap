@@ -9,7 +9,7 @@ speakers:
   - speaker_name: Adora Cheung
     speaker_title: Founder, Homejoy
     follow_link: <a href="https://twitter.com/nolimits" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @nolimits</a>
-    slides_link: https://view-api.box.com/1/sessions/fbbc09d69c2644cc9f11c7df1a94f1c0/view
+    slides_link: https://www.dropbox.com/s/ecli5cwym6d0hfq/CS183BLecture4.pdf?dl=0
     first_name: Adora
 topic: Building Product, Talking to Users, and Growing
 readings:
