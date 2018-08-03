@@ -10,7 +10,7 @@ layout: default
 <div class="row">
   <div class="col-sm-6">
     <h2 class="page-header">
-      Fall 2014
+      Videos recorded in Fall 2014
     </h2>
     <h3>Everything we know about how to start a startup, for free, from some of the world experts.</h3>
     <p>
@@ -52,7 +52,7 @@ layout: default
     Lecture pages below include slide decks and lecture transcripts.
     <table class="table table-striped table-bordered top-margin">
       <tr>
-        <td>Date</td>
+        <td>Lecture #</td>
         <td>Speaker</td>
         <td>Topic</td>
       </tr>
@@ -60,7 +60,7 @@ layout: default
 
       <tr>
         <td>{% if course.lecno <= 20 %}<a href="/courses/{{ course.slug }}">{% endif %}
-          {{ course.date|remove:'"' }}{% if course.lecno <= 20 %}</a>{% endif %}
+          {{ course.lecno }}{% if course.lecno <= 20 %}</a>{% endif %}
         </td>
         <td>
           {% for speaker in course.speakers %}
