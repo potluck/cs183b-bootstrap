@@ -52,7 +52,7 @@ layout: default
     Lecture pages below include slide decks and lecture transcripts.
     <table class="table table-striped table-bordered top-margin">
       <tr>
-        <td>Lecture #</td>
+        <td>Lecture</td>
         <td>Speaker</td>
         <td>Topic</td>
       </tr>
