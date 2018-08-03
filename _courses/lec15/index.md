@@ -7,7 +7,7 @@ slug: lec15
 speakers:
   - speaker_name: Ben Horowitz
     speaker_title: Founder, Andreessen Horowitz, and Founder, and Opsware
-    slides_link: https://view-api.box.com/1/sessions/09971c778fb5480fad8b7e57438fdc4d/view
+    slides_link: https://www.dropbox.com/s/n309r9gg4p3dooo/Lecture%2015.pdf?dl=0
     first_name: Ben
     follow_link: <a href="https://twitter.com/bhorowitz" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @bhorowitz</a>
 topic: How to Manage
