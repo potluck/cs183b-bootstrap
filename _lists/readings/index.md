@@ -93,7 +93,6 @@ layout: default
     <li>#31: <a href="http://blog.samaltman.com/how-to-hire">How to Hire</a> by Sam Altman</li>
   </ul>
   </li>
-  </li>
   <li><a href="/courses/lec12">10/30/14, Lecture 12</a>, Aaron Levie - Building for the Enterprise
   <ul>
     <li>#32: <a href="http://www.technologyreview.com/news/522081/the-continuous-productivity-of-aaron-levie/">The Continuous Productivity of Aaron Levie</a>, MIT Technology Review</li>
