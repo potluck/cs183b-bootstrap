@@ -13,9 +13,8 @@ layout: default
     <iframe src="//www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2Fsamaltman&amp;width&amp;height=80&amp;colorscheme=light&amp;layout=button&amp;show_faces=true&amp;appId=178422522168165" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:20px;" allowTransparency="true"></iframe>
   </h3>
   <h4><strong>Everything we know about how to start a startup, for free, from some of the world experts.</strong></h4>
-  <h5>How to Start a Startup is a series of video lectures, initially given at Stanford in Fall 2014. Videos are below, and you can also check out: </h5>
-  <h4><a href="lists/readings">Recommended Readings</a> | <a href="https://www.facebook.com/groups/556336557801913/">Facebook Community</a> | <a href="https://startupclass.co/">Discussion Forum</a> | <a href="lists/about/">More Info</a></h4>
-  <h4> <strong>New: The <a href="http://the1st30.com/">How to Start a Startup ebook</a>! </strong> </h4>
+  <h5>How to Start a Startup is a series of video lectures, initially given at Stanford in Fall 2014. Videos (under <a href="http://creativecommons.org/licenses/by-nc-nd/2.5/">Creative Commons</a>) are below, and you can also check out: </h5>
+  <h4><a href="lists/readings">Recommended Readings</a> | <a href="lists/about/">More Resources</a></h4>
 </div>
 
 <script src="https://clip.mn/static/embed_api/api.js"></script>

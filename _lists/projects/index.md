@@ -3,7 +3,7 @@ title: "Projects"
 layout: default
 ---
 
-<h1><a href="/">How to Start a Startup</a> <a href="https://www.facebook.com/groups/556336557801913/" class="btn btn-primary btn-sm"> Join the community </a></h1>
+<h1><a href="/">How to Start a Startup</a>
 <h3> Sam Altman <a href="https://twitter.com/sama" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @sama</a></h3>
 <hr />
 

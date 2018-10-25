@@ -1,5 +1,5 @@
 ---
-date: '"10/9/14"'
+date: '"2014-10-09"'
 layout: coursepage
 lecno: 6
 name: lec06
@@ -8,7 +8,7 @@ speakers:
   - speaker_name: Alex Schultz
     speaker_title: VP Growth, Facebook
     follow_link: <a href="https://twitter.com/alexschultz" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @alexschultz</a>
-    slides_link: https://view-api.box.com/1/sessions/6738ed229eb143b3b9bb8be214ced475/view
+    slides_link: https://www.dropbox.com/s/tszhn4p676zu8be/Lecture%206.pdf?dl=0
     first_name: Alex
 readings:
   - link: <a href="http://youtu.be/raIUQP71SBU?t=29s">[video] How we put Facebook on the path to 1 billion users</a> - Chamath Palihapitiya; <a href="http://blog.chrisbarber.co/transcript-how-we-put-facebook-on-the-path-to-1-billion-users">(user-provided transcript)</a>

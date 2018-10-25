@@ -1,5 +1,5 @@
 ---
-date: '"11/4/14"'
+date: '"2014-11-04"'
 layout: coursepage
 lecno: 13
 name: lec13
@@ -7,7 +7,7 @@ slug: lec13
 speakers:
   - speaker_name: Reid Hoffman
     speaker_title: Partner, Greylock Ventures and Founder, LinkedIn
-    slides_link: https://view-api.box.com/1/sessions/4cab4c12acbb4497bf7e17a00f0dc077/view
+    slides_link: https://www.dropbox.com/s/h80dfxh21qquw8c/How%20to%20Be%20a%20Great%20Founder.pdf?dl=0
     first_name: Reid
     follow_link: <a href="https://twitter.com/reidhoffman" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @reidhoffman</a>
 topic: How To Be A Great Founder

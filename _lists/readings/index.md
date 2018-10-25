@@ -3,7 +3,7 @@ title: "Readings"
 layout: default
 ---
 
-<h1><a href="/">How to Start a Startup</a> <a href="https://www.facebook.com/groups/556336557801913/" class="btn btn-primary btn-sm"> Join the community </a></h1>
+<h1><a href="/">How to Start a Startup</a>
 <h3> Sam Altman <a href="https://twitter.com/sama" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @sama</a></h3>
 <hr />
 
@@ -69,7 +69,7 @@ layout: default
   </li>
   <li><a href="/courses/lec08">10/16/14, Lecture 8</a>, Walker Williams, Justin Kan, Stanley Tang - Doing Things that Don't Scale, PR, How to Get Started
   <ul>
-    <li>#23: <a href="https://docs.google.com/document/d/1LQxnHxQ6xO54BHcoOmgEeuhdHwWwujKuSpzQbQnlThk">The Press is a Tool</a> by Alexia Tsotsis</li>
+    <li>#23: <a href="https://www.dropbox.com/s/cit2axfhdsqbr5q/ThePressIsATool.pdf?dl=0">The Press is a Tool</a> by Alexia Tsotsis</li>
   </ul>
   </li>
   <li><a href="/courses/lec09">10/21/14, Lecture 9</a>, Marc Andreessen, Ron Conway, Parker Conrad - How to Raise Money
@@ -92,7 +92,6 @@ layout: default
     <li>#30: <a href="http://blog.alexmaccaw.com/stripes-culture">What’s It Like to Work for Stripe</a> by Alex Maccaw</li>
     <li>#31: <a href="http://blog.samaltman.com/how-to-hire">How to Hire</a> by Sam Altman</li>
   </ul>
-  </li>
   </li>
   <li><a href="/courses/lec12">10/30/14, Lecture 12</a>, Aaron Levie - Building for the Enterprise
   <ul>

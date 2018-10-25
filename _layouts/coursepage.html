@@ -1,17 +1,14 @@
 ---
 layout: default
 ---
-  <h1><a href="/">How to Start a Startup</a> <a href="https://www.facebook.com/groups/556336557801913/" class="btn btn-primary btn-sm"> Join the community </a></h1>
+  <h1><a href="/">How to Start a Startup</a>
   <h3> Sam Altman <a href="https://twitter.com/sama" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @sama</a></h3>
   <hr />
 
 <div class="jumbotron">
 {% if page.video_link %}
-<div>
-<iframe src="//clip.mn/embed/yt-{{ page.video_id }}?pid=yc"
-        height="475" width="1100" border=0 allowFullScreen="true"
-        style="max-width: 100%; max-height: 100%; border:1px solid #CCC;">
-</iframe>
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" width="560" height="315" src="{{ page.video_link }}" frameborder="0" allowfullscreen></iframe>
 </div>
 {% else %}
 <p> Lecture video will be available by 4 PM Pacific Time on {{ page.date }}</p>

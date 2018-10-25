@@ -1,5 +1,5 @@
 ---
-date: '"10/14/14"'
+date: '"2014-10-14"'
 layout: coursepage
 lecno: 7
 name: lec07
@@ -8,7 +8,7 @@ speakers:
   - speaker_name: Kevin Hale
     speaker_title: Founder, Wufoo and Partner, Y Combinator
     follow_link: <a href="https://twitter.com/ilikevests" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @ilikevests</a>
-    slides_link: https://view-api.box.com/1/sessions/20b8a007b1e948ba9ae18abd151b7b32/view
+    slides_link: https://www.dropbox.com/s/0yibujzythsbvn9/HowToBuildProducsUsersLove.pdf?dl=0
     first_name: Kevin
 topic: How to Build Products Users Love
 readings:

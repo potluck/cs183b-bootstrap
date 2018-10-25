@@ -1,5 +1,5 @@
 ---
-date: '"10/23/14"'
+date: '"2014-10-23"'
 layout: coursepage
 lecno: 10
 name: lec10
@@ -7,7 +7,7 @@ slug: lec10
 speakers:
   - speaker_name: Alfred Lin
     speaker_title: Former COO, Zappos and Partner, Sequoia Capital
-    slides_link: https://view-api.box.com/1/sessions/b39e23a8503341b487e9c56d69105e84/view
+    slides_link: https://www.dropbox.com/s/jbd1rs48amcl3el/Stanford%20CS183B%20-%20Culture.pdf?dl=0
     first_name: Alfred
     follow_link: <a href="https://twitter.com/Alfred_Lin" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @Alfred_Lin</a>
   - speaker_name: Brian Chesky

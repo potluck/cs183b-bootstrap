@@ -1,5 +1,5 @@
 ---
-date: '"11/6/14"'
+date: '"2014-11-06"'
 layout: coursepage
 lecno: 14
 name: lec14
@@ -7,7 +7,7 @@ slug: lec14
 speakers:
   - speaker_name: Keith Rabois
     speaker_title: Partner, Khosla Ventures
-    slides_link: https://view-api.box.com/1/sessions/c75ced2af19f4bafaf8ea9adc7ca3da6/view
+    slides_link: https://www.dropbox.com/s/oefoii1a1gye26t/Lecture%2014.pptx?dl=0
     first_name: Keith
     follow_link: <a href="https://twitter.com/rabois" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @rabois</a>
 topic: How to Operate

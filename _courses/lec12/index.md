@@ -1,5 +1,5 @@
 ---
-date: '"10/30/14"'
+date: '"2014-10-30"'
 layout: coursepage
 lecno: 12
 name: lec12
@@ -7,7 +7,7 @@ slug: lec12
 speakers:
   - speaker_name: Aaron Levie
     speaker_title: Founder, Box
-    slides_link: https://cloud.box.com/s/swcqxddyommro52eaopz
+    slides_link: https://www.dropbox.com/s/9pyndkplouafz2b/Stanford_Enterprise.pptx?dl=0
     first_name: Aaron
     follow_link: <a href="https://twitter.com/levie" class="twitter-follow-button" data-show-count="false" data-show-screen-name="true">Follow @levie</a>
    
